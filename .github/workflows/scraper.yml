@@ -49,7 +49,7 @@ jobs:
         git config --global user.email "actions@github.com"
         
         # Stage your master file and whatever logs were created today
-        git add data/master_dataset.json
+        git add data/pa_senate_bills.json
         git add data/changelogs/
         git add data/error_logs/
         
