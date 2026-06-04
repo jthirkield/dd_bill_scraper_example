@@ -44,17 +44,22 @@ jobs:
 
     # Step 6: Commit and Push changes back to your repository
     - name: Save Data and Logs to Repository
-    run: |
+      run: |
         git config --global user.name "GitHub Action Bot"
         git config --global user.email "actions@github.com"
         
-        # The '-f' means force, and checking if directories exist avoids errors
-        [ -f data/pa_senate_bills.json ] && git add data/pa_senate_bills.json
-        [ -d data/changelogs ] && git add data/changelogs/
-        [ -d data/error_logs ] && git add data/error_logs/
+        # 1. Check if the data folder even exists
+        if [ -d "data" ]; then
+          echo "Data directory found. Staging all inner files..."
+          
+          # This tells git to automatically stage everything inside the data/ folder 
+          # without you having to name individual JSON files or log paths!
+          git add data/
+        else
+          echo "Warning: Data directory was never created by the script!"
+        fi
         
-       
-        # Only commit if git status proves files were actually modified/created
+        # 2. Only commit if git status detects actual additions or modifications
         if [ -n "$(git status --porcelain)" ]; then
           echo "Changes or logs detected. Committing to repository..."
           git commit -m "Automated Scrape Run: $(date +'%Y-%m-%d %H:%M:%S')"
