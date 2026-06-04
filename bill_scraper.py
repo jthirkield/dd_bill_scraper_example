@@ -61,10 +61,16 @@ error_log = {
 #########STEP THREE#########
 #scrap contents page get the current contents
 
-head={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36'}
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive"
+}
 
 url = "https://www.palegis.us/legislation/bills/bill-index?display=index&sessYr=2025&sessInd=0&billBody=S&filter=bills"
-raw_html = requests.get(url,headers=head).content
+raw_html = requests.get(url,headers=HEADERS, timeout=15).content
 contents_doc = BeautifulSoup(raw_html, "html.parser")
 bill_container = contents_doc.h3.parent.parent
 all_bill_links = bill_container.find_all('a')
