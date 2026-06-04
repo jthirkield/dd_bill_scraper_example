@@ -96,7 +96,7 @@ for link in all_bill_links[:6]:
     url = "https://www.palegis.us/"+link['href']
     yesterdays_item = old_data_map.get(url)
     try:
-        raw_html = requests.get(url,headers=head).content
+        raw_html = requests.get(url,headers=HEADERS).content
         bill_page = BeautifulSoup(raw_html, "html.parser")
         ###setting up hash for change detection
         history_table=bill_page.find(string=re.compile("View Full History")).parent.parent.find_next_sibling('div').table
