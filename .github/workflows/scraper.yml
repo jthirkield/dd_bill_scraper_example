@@ -6,6 +6,9 @@ on:
     - cron: '0 5 * * *'
   workflow_dispatch: # Allows you to click a button in GitHub to run it manually
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+  
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
