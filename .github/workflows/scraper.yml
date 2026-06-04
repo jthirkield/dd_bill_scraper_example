@@ -1,0 +1,60 @@
+name: Daily Bill Scraper Pipeline
+
+on:
+  schedule:
+    # Runs automatically every day at 5:00 AM UTC
+    - cron: '0 5 * * *'
+  workflow_dispatch: # Allows you to click a button in GitHub to run it manually
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Step 1: Clone your repository onto the runner machine
+    - name: Checkout Code
+      uses: actions/checkout@v4
+
+    # Step 2: Set up a secure Python environment
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+        cache: 'pip' # Speeds up subsequent runs by caching requirements
+
+    # Step 3: Install all your scraping libraries
+    - name: Install Python Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
+ #       pip install requests beautifulsoup4 playwright
+
+    # Step 4: Configure Playwright's system-level browser binaries
+    # - name: Install Playwright Browsers
+    #   run: |
+    #     python -m playwright install --with-deps chromium
+
+    # Step 5: Execute your script!
+    - name: Execute Scraper Engine
+      run: |
+        python bill_scraper.py
+
+    # Step 6: Commit and Push changes back to your repository
+    - name: Save Data and Logs to Repository
+      run: |
+        git config --global user.name "GitHub Action Bot"
+        git config --global user.email "actions@github.com"
+        
+        # Stage your master file and whatever logs were created today
+        git add data/master_dataset.json
+        git add data/changelogs/
+        git add data/error_logs/
+        
+        # Only commit if git status proves files were actually modified/created
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "Changes or logs detected. Committing to repository..."
+          git commit -m "Automated Scrape Run: $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
+        else
+          echo "No data changes or errors detected today. Skipping commit."
+        fi
