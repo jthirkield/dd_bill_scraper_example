@@ -2,9 +2,9 @@
 #all the extraction of values from eah page happens here
 ################################################################
 import re
+import os
 from bs4 import BeautifulSoup
 import requests
-import os
 from urllib.parse import urlencode
 
 api_key=os.environ.get("SCRAPOPS_API_KEY")
