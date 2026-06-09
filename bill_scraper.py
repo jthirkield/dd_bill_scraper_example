@@ -65,7 +65,7 @@ error_log = {
 #########STEP THREE#########
 #scrape contents page get the current contents
 
-yesterday = date.today() #- timedelta(days=1)
+yesterday = date.today() - timedelta(days=1)
 
 # Format without leading zeros using f-strings
 formatted_date = f"{yesterday.year}-{yesterday.month}-{yesterday.day}"
