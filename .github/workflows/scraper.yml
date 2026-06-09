@@ -66,6 +66,7 @@ jobs:
         if [ -n "$(git status --porcelain)" ]; then
           echo "Changes or logs detected. Committing to repository..."
           git commit -m "Automated Scrape Run: $(date +'%Y-%m-%d %H:%M:%S')"
+          git pull --rebase
           git push
         else
           echo "No data changes or errors detected today. Skipping commit."
