@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-09",
+  "errors": [
+    {
+      "bill_id": "SB1105",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1105",
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'parent'",
+      "traceback": [
+        "  File \"/home/runner/work/dd_bill_scraper_example/dd_bill_scraper_example/bill_scraper.py\", line 137, in <module>",
+        "    history_table=bill_page.find(string=re.compile(\"View Full History\")).parent.parent.find_next_sibling('div').table",
+        "AttributeError: 'NoneType' object has no attribute 'parent'"
+      ]
+    },
+    {
+      "bill_id": "SB1150",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1150",
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'text'",
+      "traceback": [
+        "  File \"/home/runner/work/dd_bill_scraper_example/dd_bill_scraper_example/parse_data.py\", line 107, in get_bill_text",
+        "    return bill_doc.find(id=\"page-container\").text",
+        "AttributeError: 'NoneType' object has no attribute 'text'"
+      ]
+    }
+  ]
+}

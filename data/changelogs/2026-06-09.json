@@ -2,29 +2,84 @@
   "date": "2026-06-09",
   "additions": [
     {
-      "bill_id": "SB1360",
-      "url": "https://www.palegis.us/legislation/bills/2025/sb1360",
-      "action": "Last Action: Referred to Institutional Sustainability & Innovation, June 8, 2026 Senate"
+      "bill_id": "SB0049",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb49",
+      "action": "Last Action: Re-referred to Rules & Executive Nominations, June 8, 2026 Senate"
     },
     {
-      "bill_id": "SB1372",
-      "url": "https://www.palegis.us/legislation/bills/2025/sb1372",
-      "action": "Last Action: Referred to Health & Human Services, June 8, 2026 Senate"
+      "bill_id": "SB0469",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb469",
+      "action": "Last Action: Re-reported as committed, June 8, 2026 Senate"
     },
     {
-      "bill_id": "SB1373",
-      "url": "https://www.palegis.us/legislation/bills/2025/sb1373",
-      "action": "Last Action: Referred to Health & Human Services, June 8, 2026 Senate"
+      "bill_id": "SB0576",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb576",
+      "action": "Last Action: Re-referred to Appropriations, June 8, 2026 Senate"
     },
     {
-      "bill_id": "SB1376",
-      "url": "https://www.palegis.us/legislation/bills/2025/sb1376",
-      "action": "Last Action: Referred to Aging & Youth, June 8, 2026 Senate"
+      "bill_id": "SB0746",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb746",
+      "action": "Last Action: First consideration, June 8, 2026 Senate"
     },
     {
-      "bill_id": "SB0045",
-      "url": "https://www.palegis.us/legislation/bills/2025/sb45",
+      "bill_id": "SB0835",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb835",
       "action": "Last Action: (Remarks see Senate Journal Page ....), June 8, 2026 Senate"
+    },
+    {
+      "bill_id": "SB0866",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb866",
+      "action": "Last Action: Re-reported as committed, June 8, 2026 Senate"
+    },
+    {
+      "bill_id": "SB1183",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1183",
+      "action": "Last Action: Re-referred to Appropriations, June 8, 2026 Senate"
+    },
+    {
+      "bill_id": "SB1260",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1260",
+      "action": "Last Action: Re-referred to Appropriations, June 8, 2026 Senate"
+    },
+    {
+      "bill_id": "SB1261",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1261",
+      "action": "Last Action: Re-reported as committed, June 8, 2026 Senate"
+    },
+    {
+      "bill_id": "SB1269",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1269",
+      "action": "Last Action: Re-reported as committed, June 8, 2026 Senate"
+    },
+    {
+      "bill_id": "SB1273",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1273",
+      "action": "Last Action: Re-referred to Appropriations, June 8, 2026 Senate"
+    },
+    {
+      "bill_id": "SB1277",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1277",
+      "action": "Last Action: Re-referred to Rules & Executive Nominations, June 8, 2026 Senate"
+    },
+    {
+      "bill_id": "SB1299",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1299",
+      "action": "Last Action: First consideration, June 8, 2026 Senate"
+    },
+    {
+      "bill_id": "SB1313",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1313",
+      "action": "Last Action: (Remarks see Senate Journal Page ....), June 8, 2026 Senate"
+    },
+    {
+      "bill_id": "SB1353",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1353",
+      "action": "Last Action: Re-reported as committed, June 8, 2026 Senate"
+    },
+    {
+      "bill_id": "SB1374",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1374",
+      "action": "Last Action: First consideration, June 8, 2026 Senate"
     }
   ],
   "deletions": [],
