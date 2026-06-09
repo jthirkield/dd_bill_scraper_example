@@ -124,7 +124,7 @@ for link in contents_links:
 #########STEP FOUR#########
 #checking/scraping the bill pages
 print(all_bill_links)
-for link in all_bill_links[:5]:#EXAMPLE CURRENTLY JUST SCRAPE THE FIRST 3 PAGES
+for link in all_bill_links:
     url = "https://www.palegis.us"+link['href']
     print(url)
     yesterdays_item = old_data_map.get(url)
