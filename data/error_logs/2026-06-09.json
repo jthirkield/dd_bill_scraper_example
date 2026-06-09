@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-09",
+  "errors": [
+    {
+      "bill_id": "SB1360",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1360",
+      "error_type": "NameError",
+      "message": "name 'HEAD' is not defined",
+      "traceback": [
+        "  File \"/home/runner/work/dd_bill_scraper_example/dd_bill_scraper_example/parse_data.py\", line 91, in get_bill_text",
+        "    response = requests.get(url='https://proxy.scrapeops.io/v1/',headers=HEAD,params=urlencode(proxy_params),timeout=120)",
+        "NameError: name 'HEAD' is not defined"
+      ]
+    },
+    {
+      "bill_id": "SB1372",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1372",
+      "error_type": "NameError",
+      "message": "name 'HEAD' is not defined",
+      "traceback": [
+        "  File \"/home/runner/work/dd_bill_scraper_example/dd_bill_scraper_example/parse_data.py\", line 91, in get_bill_text",
+        "    response = requests.get(url='https://proxy.scrapeops.io/v1/',headers=HEAD,params=urlencode(proxy_params),timeout=120)",
+        "NameError: name 'HEAD' is not defined"
+      ]
+    },
+    {
+      "bill_id": "SB1373",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1373",
+      "error_type": "NameError",
+      "message": "name 'HEAD' is not defined",
+      "traceback": [
+        "  File \"/home/runner/work/dd_bill_scraper_example/dd_bill_scraper_example/parse_data.py\", line 91, in get_bill_text",
+        "    response = requests.get(url='https://proxy.scrapeops.io/v1/',headers=HEAD,params=urlencode(proxy_params),timeout=120)",
+        "NameError: name 'HEAD' is not defined"
+      ]
+    },
+    {
+      "bill_id": "SB1376",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1376",
+      "error_type": "NameError",
+      "message": "name 'HEAD' is not defined",
+      "traceback": [
+        "  File \"/home/runner/work/dd_bill_scraper_example/dd_bill_scraper_example/parse_data.py\", line 91, in get_bill_text",
+        "    response = requests.get(url='https://proxy.scrapeops.io/v1/',headers=HEAD,params=urlencode(proxy_params),timeout=120)",
+        "NameError: name 'HEAD' is not defined"
+      ]
+    },
+    {
+      "bill_id": "SB0045",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb45",
+      "error_type": "NameError",
+      "message": "name 'HEAD' is not defined",
+      "traceback": [
+        "  File \"/home/runner/work/dd_bill_scraper_example/dd_bill_scraper_example/parse_data.py\", line 91, in get_bill_text",
+        "    response = requests.get(url='https://proxy.scrapeops.io/v1/',headers=HEAD,params=urlencode(proxy_params),timeout=120)",
+        "NameError: name 'HEAD' is not defined"
+      ]
+    }
+  ]
+}
