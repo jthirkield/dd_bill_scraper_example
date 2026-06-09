@@ -75,7 +75,7 @@ new_bills = f"https://www.palegis.us/legislation/bills/search-results?sessYr=202
 updated_bills = f"https://www.palegis.us/legislation/bills/search-results?sessYr=2025&sessInd=0&actionDate={formatted_date}&actionChamber=S&action=ACTIONS"
 contents_links = [new_bills, updated_bills]
 todays_bills = []
-
+print(new_bills)
 HEAD = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
@@ -90,18 +90,6 @@ HEAD = {
 }
 
 
-proxy_params = {
-      'api_key': api_key,
-      'url': 'https://www.palegis.us/legislation/bills/bill-index?display=index&sessYr=2025&sessInd=0&billBody=S&filter=bills', 
-  }
-
-response = requests.get(
-    url='https://proxy.scrapeops.io/v1/',
-    headers=HEAD,
-    params=urlencode(proxy_params),
-    timeout=120,
-)
-
 
 
 all_bill_links=[]
@@ -110,8 +98,9 @@ all_bill_links=[]
 ########CHECKS FOR PAGINATION AND LOOPS THROUGH PAGES ###############
 for link in contents_links:
     time.sleep(1)
+    print(link)
     proxy_params = {'api_key': api_key,'url': link}
-    response = requests.get(url='https://proxy.scrapeops.io/v1/',headers=HEAD,params=urlencode(proxy_params),timeout=120)
+    response = requests.get(url='https://proxy.scrapeops.io/v1/', headers=HEAD, params=urlencode(proxy_params), timeout=120)
     raw_html = response.content
     link_doc = BeautifulSoup(raw_html, "html.parser")
     all_docs = link_doc.find_all(class_="resultRow")
@@ -134,9 +123,10 @@ for link in contents_links:
 
 #########STEP FOUR#########
 #checking/scraping the bill pages
-
+print(all_bill_links)
 for link in all_bill_links[:5]:#EXAMPLE CURRENTLY JUST SCRAPE THE FIRST 3 PAGES
     url = "https://www.palegis.us"+link['href']
+    print(url)
     yesterdays_item = old_data_map.get(url)
     time.sleep(1)
     try:
