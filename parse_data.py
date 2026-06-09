@@ -3,6 +3,10 @@
 ################################################################
 import re
 from bs4 import BeautifulSoup
+import requests
+from urllib.parse import urlencode
+
+api_key=os.environ.get("SCRAPOPS_API_KEY")
 
 def extract_data_points(bill_page,url,hash_id,bill_id):
     fields = {}
@@ -49,7 +53,9 @@ def extract_data_points(bill_page,url,hash_id,bill_id):
         actions_dict['action']=row.text.strip()
         if row.td.a:
             actions_dict['doc']=row.td.a['aria-label']
-            actions_dict['doc_link']=row.td.a['href']
+            actions_dict['pdf_link']=row.td.a['href']
+            actions_dict['text_link']="https://www.palegis.us" + row.td.a['href'].replace("text/PDF/","text/HTM/")
+            # actions_dict['text_link']=row.td.a['href']
         actions_list.append(actions_dict)
     fields["actions"]=actions_list
     main_votes=bill_page.find(id="VotesSection").find_next_sibling('div').find_all(class_="card-body")
@@ -77,3 +83,11 @@ def extract_data_points(bill_page,url,hash_id,bill_id):
             vt['NO Votes']=vote.find(class_=re.compile("fa-square-xmark")).parent.text
             fields["votes"].append(vt)
     return fields
+
+def get_bill_text(text_url,head):
+    print(text_url)
+    proxy_params = {'api_key': api_key,'url': text_url}
+    response = requests.get(url='https://proxy.scrapeops.io/v1/',headers=HEAD,params=urlencode(proxy_params),timeout=120)
+    bill_html = response.content
+    bill_doc = BeautifulSoup(bill_html, "html.parser")
+    return bill_doc.find(id="page-container").text

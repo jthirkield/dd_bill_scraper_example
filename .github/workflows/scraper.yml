@@ -36,9 +36,12 @@ jobs:
     # - name: Install Playwright Browsers
     #   run: |
     #     python -m playwright install --with-deps chromium
-
+    
+    
     # Step 5: Execute your script!
     - name: Execute Scraper Engine
+      env:
+        SCRAPOPS_API_KEY: ${{ secrets.SCRAPOPS_API_KEY}} 
       run: |
         python bill_scraper.py
 
