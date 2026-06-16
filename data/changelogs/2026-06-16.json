@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-16",
+  "additions": [
+    {
+      "bill_id": "SB1378",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1378",
+      "action": "Last Action: Referred to Banking & Insurance, June 15, 2026 Senate"
+    },
+    {
+      "bill_id": "SB1379",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1379",
+      "action": "Last Action: Referred to Judiciary, June 15, 2026 Senate"
+    },
+    {
+      "bill_id": "SB1381",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1381",
+      "action": "Last Action: Referred to Transportation, June 15, 2026 Senate"
+    },
+    {
+      "bill_id": "SB0009",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb9",
+      "action": "Last Action: Re-referred to Judiciary, June 15, 2026 House"
+    }
+  ],
+  "deletions": [],
+  "modifications": []
+}

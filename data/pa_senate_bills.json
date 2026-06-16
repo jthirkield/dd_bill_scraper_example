@@ -1,5 +1,233 @@
 [
   {
+    "content_hash": "4449e91a0735e57092797e72cceead5a",
+    "url": "https://www.palegis.us/legislation/bills/2025/sb9",
+    "bill_id": "SB0009",
+    "bill_name": "Senate Bill 9",
+    "short_des": "An Act providing for sport activities in public institutions of higher education and public school entities to be expressly designated male, female or coed; and creating causes of action for harm suff . . .ered by designation.",
+    "memo_name": "Save Women\u2019s Sports Act - opens in a new tab",
+    "memo_link": "/senate/co-sponsorship/memo?memoID=43456&document=SB9",
+    "prime_sponsor": {
+      "name": "Senator Judy Ward",
+      "party": "R",
+      "district": "Senate District\u00a030"
+    },
+    "cosponsors": [
+      {
+        "name": "Sen. Kristin Phillips-Hill",
+        "party": "R",
+        "district": "Senate District\u00a028"
+      },
+      {
+        "name": "Sen. Kim Ward",
+        "party": "R",
+        "district": "Senate District\u00a039"
+      },
+      {
+        "name": "Sen. Lisa Baker",
+        "party": "R",
+        "district": "Senate District\u00a020"
+      },
+      {
+        "name": "Sen. Michele Brooks",
+        "party": "R",
+        "district": "Senate District\u00a050"
+      },
+      {
+        "name": "Sen. Camera Bartolotta",
+        "party": "R",
+        "district": "Senate District\u00a046"
+      },
+      {
+        "name": "Sen. Tracy Pennycuick",
+        "party": "R",
+        "district": "Senate District\u00a024"
+      },
+      {
+        "name": "Sen. Rosemary Brown",
+        "party": "R",
+        "district": "Senate District\u00a040"
+      },
+      {
+        "name": "Sen. Lynda Schlegel Culver",
+        "party": "R",
+        "district": "Senate District\u00a027"
+      }
+    ],
+    "last_action": "Last Action: Re-referred to Judiciary, June 15, 2026 House",
+    "timeline": {
+      "Bill was introduced": [
+        "In the Senate"
+      ],
+      "Referred to Committee": [
+        "05/07/2025",
+        "Referred to EDUCATION [House]",
+        "07/09/2025",
+        "Reported with request to re-refer to HEALTH [House]",
+        "07/09/2025",
+        "Re-referred to HEALTH [House]",
+        "10/29/2025",
+        "Reported with request to re-refer to JUDICIARY [House]",
+        "10/29/2025",
+        "Re-referred to JUDICIARY [House]",
+        "03/19/2026",
+        "Reported with request to re-refer to CHILDREN AND YOUTH [House]",
+        "03/19/2026",
+        "Re-referred to CHILDREN AND YOUTH [House]",
+        "06/02/2026",
+        "Reported with request to re-refer to HEALTH [House]",
+        "06/02/2026",
+        "Re-referred to HEALTH [House]",
+        "06/15/2026",
+        "Re-referred to JUDICIARY [House]"
+      ],
+      "Reported from Committee": [
+        "Bill has not yet reached this milestone"
+      ],
+      "Bill Receives Third Consideration": [
+        "Bill has not yet reached this milestone"
+      ],
+      "In the House": [],
+      "Executive Action": [
+        "Bill has not yet reached this milestone"
+      ]
+    },
+    "actions": [
+      {
+        "action": "0177\nReferred to Education,  Feb.\u00a03,\u00a02025",
+        "doc": "2025-2026 Regular Session SB 0009 PN 0177 Bill Text (PDF)",
+        "pdf_link": "/legislation/bills/text/PDF/2025/0/SB0009/PN0177",
+        "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB0009/PN0177"
+      },
+      {
+        "action": "Reported as committed, March\u00a026,\u00a02025"
+      },
+      {
+        "action": "First consideration, March\u00a026,\u00a02025"
+      },
+      {
+        "action": "Second consideration, March\u00a031,\u00a02025"
+      },
+      {
+        "action": "Third consideration and final passage, May\u00a06,\u00a02025 (32-18)"
+      },
+      {
+        "action": "(Remarks see Senate Journal Page 357-367), May\u00a06,\u00a02025"
+      },
+      {
+        "action": "In the House"
+      },
+      {
+        "action": "Referred to Education,  May\u00a07,\u00a02025"
+      },
+      {
+        "action": "Reported with request to re-refer to Health,  July\u00a09,\u00a02025"
+      },
+      {
+        "action": "Re-referred to Health,  July\u00a09,\u00a02025"
+      },
+      {
+        "action": "Reported with request to re-refer to Judiciary,  Oct.\u00a029,\u00a02025"
+      },
+      {
+        "action": "Re-referred to Judiciary,  Oct.\u00a029,\u00a02025"
+      },
+      {
+        "action": "Reported with request to re-refer to Children & Youth,  March\u00a019,\u00a02026"
+      },
+      {
+        "action": "Re-referred to Children & Youth,  March\u00a019,\u00a02026"
+      },
+      {
+        "action": "Reported with request to re-refer to Health,  June\u00a02,\u00a02026"
+      },
+      {
+        "action": "Re-referred to Health,  June\u00a02,\u00a02026"
+      },
+      {
+        "action": "Reported with request to re-refer to Judiciary,  June\u00a015,\u00a02026"
+      },
+      {
+        "action": "Re-referred to Judiciary,  June\u00a015,\u00a02026"
+      }
+    ],
+    "votes": [
+      {
+        "date": "Monday, June 15, 2026",
+        "type": "House HEALTH Committee Vote",
+        "bill": "Senate Bill 9 PN0177, Re-refer Bill To Another Committee - opens in a new tab",
+        "link": "/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=55&rollcallid=2404&sessYr=2025&sessInd=0",
+        "YES Votes": "14",
+        "NO Votes": "12"
+      },
+      {
+        "date": "Tuesday, June 2, 2026",
+        "type": "House CHILDREN & YOUTH Committee Vote",
+        "bill": "Senate Bill 9 PN0177, Re-refer Bill To Another Committee - opens in a new tab",
+        "link": "/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=48&rollcallid=2219&sessYr=2025&sessInd=0",
+        "YES Votes": "14",
+        "NO Votes": "12"
+      },
+      {
+        "date": "Wednesday, March 25, 2026",
+        "type": "House\u00a0CHILDREN\u00a0&\u00a0YOUTH\u00a0Committee\u00a0Vote",
+        "bill": "\n14\n8\n - opens in a new tab\n",
+        "link": "/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=48&rollcallid=1876&sessYr=2025&sessInd=0",
+        "YES Votes": "14",
+        "NO Votes": "8"
+      },
+      {
+        "date": "Tuesday, March 10, 2026",
+        "type": "House\u00a0JUDICIARY\u00a0Committee\u00a0Vote",
+        "bill": "\n15\n11\n - opens in a new tab\n",
+        "link": "/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=60&rollcallid=1748&sessYr=2025&sessInd=0",
+        "YES Votes": "15",
+        "NO Votes": "11"
+      },
+      {
+        "date": "Tuesday, March 10, 2026",
+        "type": "House\u00a0JUDICIARY\u00a0Committee\u00a0Vote",
+        "bill": "\n12\n14\n - opens in a new tab\n",
+        "link": "/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=60&rollcallid=1747&sessYr=2025&sessInd=0",
+        "YES Votes": "12",
+        "NO Votes": "14"
+      },
+      {
+        "date": "Wednesday, October 29, 2025",
+        "type": "House\u00a0HEALTH\u00a0Committee\u00a0Vote",
+        "bill": "\n14\n12\n - opens in a new tab\n",
+        "link": "/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=55&rollcallid=1370&sessYr=2025&sessInd=0",
+        "YES Votes": "14",
+        "NO Votes": "12"
+      },
+      {
+        "date": "Tuesday, July 8, 2025",
+        "type": "House\u00a0EDUCATION\u00a0Committee\u00a0Vote",
+        "bill": "\n14\n12\n - opens in a new tab\n",
+        "link": "/house/committees/roll-call-votes/vote-list/vote-summary?committeecode=12&rollcallid=1053&sessYr=2025&sessInd=0",
+        "YES Votes": "14",
+        "NO Votes": "12"
+      },
+      {
+        "date": "Tuesday, May 6, 2025",
+        "type": "Senate\u00a0Floor\u00a0Vote",
+        "bill": "\n32\n18\n - opens in a new tab\n",
+        "link": "/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=62",
+        "YES Votes": "32",
+        "NO Votes": "18"
+      },
+      {
+        "date": "Wednesday, March 26, 2025",
+        "type": "Senate\u00a0EDUCATION\u00a0Committee\u00a0Vote",
+        "bill": "\n7\n4\n - opens in a new tab\n",
+        "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=23&rollcallid=76&sessYr=2025&sessInd=0",
+        "YES Votes": "7",
+        "NO Votes": "4"
+      }
+    ],
+    "bill_text": "\n PRINTER'S NO.  177 THE GENERAL ASSEMBLY OF PENNSYLVANIASENATE BILL No.9 Session of 2025 INTRODUCED BY J. WARD, PHILLIPS-HILL, K. WARD, BAKER, BROOKS, BARTOLOTTA, PENNYCUICK, BROWN, CULVER, KEEFER, ROTHMAN, MASTRIANO, LANGERHOLC, HUTCHINSON, MARTIN, STEFANO, DUSH AND FARRY, FEBRUARY 3, 2025 REFERRED TO EDUCATION, FEBRUARY 3, 2025 AN ACTProviding for sport activities in public institutions of higher education and public school entities to be expressly designated male, female or coed; and creating causes of action for harm suffered by designation.The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:Section 1.  Short title.This act shall be known and may be cited as the Fairness in Women's Sports Act.Section 2.  Definitions.The following words and phrases when used in this act shall have the meanings given to them in this section unless the context clearly indicates otherwise:\"Public institution of higher education.\"  One of the following:(1)  A community college operating under Article XIX-A of the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949.123456789101112131415161718\n(2)  A rural regional college established under Article XIX-G of the Public School Code of 1949.(3)  An university within the State System of Higher Education under Article XX-A of the Public School Code of 1949.(4)  A State-related institution as defined in section 2001-C of the Public School Code of 1949.(5)  The Thaddeus Stevens College of Technology.(6)  The Pennsylvania College of Technology.\"Public school entity.\"  One of the following operating under the Public School Code of 1949:(1)  A school district.(2)  An intermediate unit.(3)  An area career and technical school.(4)  A charter school, regional charter school or cyber charter school.\"Sex.\"  A person's immutable characteristics of the reproductive system that define the individual as male or female, as determined by anatomy and genetics existing at the time of birth.Section 3.  Designation of athletic teams and sports.(a)  Designation.--Interscholastic, intercollegiate, intramural or club athletic teams or sports that are sponsored by a public school entity, a public institution of higher education or any school or institution where students or teams compete against a public school entity or public institution of higher education must be expressly designated as one of the following based on sex:(1)  Male, men or boys.(2)  Female, women or girls.20250SB0009PN0177  - 2 - 123456789101112131415161718192021222324252627282930\n(3)  Coed or mixed.(b)  Prohibition.--Athletic teams or sports designated for females, women or girls under subsection (a)(2) may not be open to students of the male sex.(c)  Limitations on restriction.--Nothing in this section shall be construed to restrict the eligibility of a student to participate in an interscholastic, intercollegiate, intramural or club athletic team or sport designed for the student's sex or designated coed or mixed.Section 4.  Protection for educational institutions.A government entity, licensing or accrediting organization or an athletic association or organization may not entertain a complaint, open an investigation or take any other adverse action against a school or institution of higher education for maintaining separate interscholastic, intercollegiate, intramural or club athletic teams or sports for students of the female sex.Section 5.  Cause of action.(a)  Deprivation of opportunity.--A student who is deprived of an athletic opportunity or who suffers a direct or indirect harm as a result of a known violation of section 3 may bring a cause of action for injunctive relief; damages; psychological, emotional and physical harm suffered; attorney fees and costs and any other relief available under law against the school or institution of higher education.(b)  Retaliation.--A student who is subject to retaliation or other adverse action by a school, institution of higher education or athletic association or organization as a result of reporting a violation of section 3 to an employee or representative of the school, institution or athletic 20250SB0009PN0177  - 3 - 123456789101112131415161718192021222324252627282930\nassociation or organization or to any Federal or State agency with oversight of schools or institutions of higher education in Pennsylvania may bring a cause of action for injunctive relief, damages, attorney fees and costs and any other relief available under law against the school, institution or athletic association or organization.(c)  School's cause of action.--A school or institution of higher education that suffers a direct or indirect harm as a result of a violation of section 4 may bring a cause of action for injunctive relief, damages and any other relief available under law against the government entity, licensing or accrediting organization or athletic association or organization.(d)  Limitation.--A person may not bring a civil action under this section later than two years after the day on which the harm underlying the cause of action occurs.Section 6.  Severability.If a part of this act is found invalid, all valid parts that are severable from the invalid part shall remain in effect. If a part of this act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications.Section 7.  Effective date.This act shall take effect in 60 days.20250SB0009PN0177  - 4 - 123456789101112131415161718192021222324\n"
+  },
+  {
     "content_hash": "3cf6919c8c1908214d55605d84ce0185",
     "url": "https://www.palegis.us/legislation/bills/2025/sb45",
     "bill_id": "SB0045",
@@ -5162,5 +5390,219 @@
       }
     ],
     "bill_text": "\n PRINTER'S NO.  1798 THE GENERAL ASSEMBLY OF PENNSYLVANIASENATE BILL No.1377 Session of 2026 INTRODUCED BY J. WARD, JUNE 9, 2026 REFERRED TO TRANSPORTATION, JUNE 9, 2026 AN ACTAmending Title 74 (Transportation) of the Pennsylvania Consolidated Statutes, in transportation infrastructure, providing for design build best value.The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:Section 1.  Title 74 of the Pennsylvania Consolidated Statutes is amended by adding a chapter to read:CHAPTER 98DESIGN BUILD BEST VALUESec.9801.  Scope of chapter.9802.  Definitions.9803.  Design build best value process.9804.  Applicability of other laws.9805.  Limitation on powers and duties and existing contracts.9806.  Project reporting.\u00a7 9801.  Scope of chapter.This chapter relates to design build best value as an alternative procurement process for highway and bridge design 12345678910111213141516171819\nand construction projects for the Pennsylvania Turnpike Commission.\u00a7 9802.  Definitions.The following words and phrases when used in this chapter shall have the meanings given to them in this section unless the context clearly indicates otherwise:\"Alternative technical concept\" or \"ATC.\"  A proposed variance from the contractual requirements or request for proposal that is equal to or better than the requirements in the request for proposal document.\"Commission.\"  The Pennsylvania Turnpike Commission.\"Commissioners.\"  The commissioners of the Pennsylvania Turnpike Commission.\"Design build best value.\"  The source selection method other than competitive sealed proposals in 62 Pa.C.S. \u00a7 513 (relating to competitive sealed proposals), as described in section 9803 (relating to design build best value process), which may be used by the commission acting as the purchasing agency, as an alternative to competitive sealed bidding and competitive sealed proposals   .  \"Offeror.\"  An entity that submits a proposal in response to a request for proposals or request for qualifications.\"Project.\"  The design and construction of a highway or bridge, or both, by    the    commission.   \"Request for proposals.\"  All documents, including those either attached or incorporated by reference, used for soliciting proposals.\"Request for qualifications.\"  All documents, including those either attached or incorporated by reference, used for soliciting statements of qualifications.20260SB1377PN1798  - 2 - 123456789101112131415161718192021222324252627282930\n\"Responsible offeror.\"  An entity that has submitted a responsive statement of qualifications to a request for qualifications or responsive proposal to a request for proposals and that possesses the capability to fully perform the contract requirements in all respects and the integrity and reliability to assure good faith performance as determined by    the   commission   .  \"Responsive proposal.\"  A proposal which conforms in all material respects to the requirements and criteria in the request for proposals.\"Shortlisted offeror.\"  An offeror that may qualify for a stipend because of the offeror's score, ranking or rating after submittal of the statement of qualifications.\"Statement of qualifications.\"  An offeror's response to    the   commission   , after the    commission    issues a request for   qualifications.\u00a7 9803.  Design build best value process.(a)  Value score.--   The commission    may use the design build   best value source selection method for projects in accordance with this section.(b)  Conditions for use.--Design build best value may be used when    the commission     determines that a    project would benefit from   the design build best value method of procurement due to one or more of the following factors:(1)  project complexity;(2)  potential for innovation;(3)  unique equipment or specialized systems;(4)  project risks;(5)  project schedule;(6)  other project considerations; and20260SB1377PN1798  - 3 - 123456789101112131415161718192021222324252627282930\n(7)     estimated project value.   (c)  Projects procured.--   The    commission    may    advertise no more   than 10 one-step design build best value procurements per calendar year and no more than 10 two-step design build best value procurements per calendar year.(d)  Public notice of determination for use of design build best value.--(1)  Except as provided under paragraph (2), the notice of determination under subsection (b) shall be posted by the commission for a period of 30 days prior to the date the procurement documents are posted on the commission's publicly accessible Internet website.(2)  The commission may elect a period of less than 30 days.(e)  Request for proposals.--(1)  After the determination under subsection (b) has been issued, the    commission    shall solicit proposals through a   request for proposals.(2)     In accordance with subsection (c), the    commission   may conduct a one-step or two-step request for proposals, subject to the following:(i)  If the    commission    conducts a one-step request   for proposals, the    commission    shall seek a technical and   price proposal in accordance with subsection (i).(ii)  If the    commission    conducts a two-step request   for proposals, the    commission    shall seek a statement of   qualifications as step one in accordance with subsection (j) and a technical and price proposal as step two in accordance with subsection (k).(3)  The    commission    shall include a schedule in a request   20260SB1377PN1798  - 4 - 123456789101112131415161718192021222324252627282930\nfor proposal under this chapter that identifies the anticipated dates for the procurement, including an anticipated final selection of a best value offeror.(f)  Public notice.--Public notice of the one-step or two-step request for proposals shall be given in the same manner as provided in 62 Pa.C.S. \u00a7 512(c) (relating to competitive sealed bidding).(g)  Submission and receipt of statements of qualifications and proposals.--Offerors shall submit their statements of qualifications and proposals to ensure that their statements of qualifications and proposals are received prior to the times and dates established for the submission of statements for qualifications and proposals. Statements of qualifications and proposals shall be submitted in the format required by the request for qualifications and the request for proposals. Statements of qualifications and proposals shall be opened so as to avoid disclosure of their contents to competing offerors.(h)  Preproposal conference.--T   he   commission    shall schedule a   preproposal conference after issuing the request for qualifications in a two-step procurement or the request for proposals in a one-step procurement, which conference may be held virtually. The    commission    shall indicate the date, time and   location for a preproposal conference within the request for qualifications in a two-step procurement or the request for proposals in a one-step procurement.(i)  Request for technical and price proposals in a one-step procurement.--(1)  The    commission    shall issue a formal request for   proposals publicly, which shall include separate proposals for a technical solution, to be known as the technical 20260SB1377PN1798  - 5 - 123456789101112131415161718192021222324252627282930\nproposal, and the proposed price, to be known as the price proposal.(2)     After receipt of all technical proposals, the   evaluation committee under subsection (t) shall evaluate each responsive proposal based on the criteria stated in the request for proposals. The technical and price proposals shall be evaluated and either scored or rated separately, as applicable.    Except for a responsiveness determination made by   a nonvoting member of the evaluation committee, a    price   proposal may not be opened until all technical proposals are scored or rated.(3)     In scoring or rating a technical proposal and price   proposal, the evaluation committee shall consider the relative importance of the evaluation factors fixed prior to the opening of the technical and price proposals, which shall be stated in the request for proposals.(4)     Failure of an offeror to meet the requirements of a   request for proposal shall result in the proposal being deemed nonresponsive.(j)  Statement of qualifications and short-list process in a two-step procurement.--(1)  A statement of qualifications received by    the   commission    from a responsible offeror shall be scored or   rated by an evaluation committee based on the criteria stated in the request for qualifications.(2)  After the statements of qualifications are scored or rated under paragraph (1), the evaluation committee shall develop a short list of the number of offerors established in the request for qualifications, which    may    identify the   responsible offerors eligible to receive a stipend under 20260SB1377PN1798  - 6 - 123456789101112131415161718192021222324252627282930\nsubsection (o)(3).(3)  The    commission    shall post a list and rank of all   responsible offerors    on the    commission's     publicly accessible   Internet website   .  (4)  A responsible offeror that submitted a statement of qualifications under the request for qualifications process, but was not a shortlisted offeror by the    commission   , is   ineligible to receive a stipend after the request for proposals process but may still submit proposals in response to the request for proposals in step two of the procurement under subsection (k).(k)  Request for technical and price proposals in a two-step procurement.--(1)  Following the creation of a short list and to the extent that    the commission    is satisfied with the number of   responsible offerors, the    commission    shall issue a formal   request for proposals to all responsible offerors who submitted a responsive statement of qualifications, which shall seek separate proposals for a technical solution, to be known as the technical proposal, and the proposed price, to be known as the price proposal.(2)  After receipt of all technical proposals, the evaluation committee shall evaluate each submission based on the criteria stated in the request for proposals. The technical and price proposals shall be evaluated and scored or rated separately.     Except for a responsiveness   determination made by a nonvoting member of the evaluation committee, a    price proposal may not be opened until all   technical proposals are scored or rated.(3)  In scoring or rating a technical proposal and price 20260SB1377PN1798  - 7 - 123456789101112131415161718192021222324252627282930\nproposal, the evaluation committee shall consider the relative importance of the evaluation factors fixed prior to the opening of the technical and price proposals, which shall be stated in the request for proposals.(4)  If the statement of qualifications rating or score will be included in the final rating or score for the design build best value two-step procurement, the request for proposal shall indicate that fact.(l)  Alternative technical concepts.--(1)  An alternative technical concept, proposed by an offeror, if any, shall be submitted by the offeror to the commission    on or before the due date for ATC submission   established by the request for proposal.(2)  The    commission    shall determine at its sole   discretion whether an ATC is acceptable or approved.(3)  The    commission    may communicate individually with an   offeror regarding its proposed or submitted ATC.(4)  Approval of an ATC will constitute a change in the specific requirements of the contractual requirements or request for proposal associated with the approved ATC for that specific offeror. An offeror shall ensure that its proposal complies with the request for proposal requirements for the specific offeror, as modified by approval of the ATC.(5)  Approval of an ATC in no way implies that the ATC or the proposal will receive a favorable review from the evaluation    committee.   (m)  Records of requests for alternative technical concepts and use of intellectual property.--(1)     Except as provided under paragraph (2), an    ATC shall   be confidential unless or until:20260SB1377PN1798  - 8 - 123456789101112131415161718192021222324252627282930\n(i)     the ATC is deemed to take advantage of an error   or omission or reveals an area or discrepancy where a clarification may be warranted in the request for proposal or contract documents, which may be subsequently amended by the    commission    in its sole discretion;   (ii)     cancellation of the procurement without   selection of an offeror and upon an executed agreement for payment to an offeror in accordance with subsection (n) or (o);(iii)     the effective date of the contract as a result   of the procurement or upon an executed agreement for payment to an unsuccessful offeror in accordance with subsection (n) or (o); or(iv)     another date as may be prescribed under   applicable law, at which time all confidentiality rights, if any, shall be of no further force and effect except as otherwise allowed under the applicable law.(2)  An unsuccessful offeror's ATC is not a public record subject to inspection and duplication under the act of February 14, 2008 (P.L.6, No.3), known as the Right-to-Know Law, unless the    commission    enters into an agreement with an   unsuccessful offeror for payment of the ATC.(3)  Except to the extent not transferable by law, the commission    may use all or a portion of a submitted proposal   and ATC, including the technologies, techniques, methods, processes and information contained in the proposal or ATC, with an agreement for payment of the ATC. Notice of nontransferability by law shall be given to the    commission    in response to the request for proposals or submittal of the ATC.20260SB1377PN1798  - 9 - 123456789101112131415161718192021222324252627282930\n(4)  Under no circumstances may the    commission    be responsible for or liable to an offeror or    third    party as a   result of disclosing an offeror's ATC materials.(n)  Payment for alternative technical concept.--The commission    may reasonably compensate any offeror for an ATC.   (o)  Stipends.--(1)  A stipend shall be limited to a two-step procurement. The determination to offer a stipend and its amount    under this subsection    shall be determined by the   commission    on a project-by-project basis. The determination   to offer a stipend in a two-step procurement and its terms shall be stated in the request for qualifications or request for proposals.(2)  In a two-step procurement, the commission may compensate unsuccessful responsible shortlisted offerors for a portion of the costs associated with the preparation of a responsive proposal in response to a request for proposals and for payment of an ATC. If a stipend is provided to unsuccessful shortlisted offerors, the commission may only provide payment if the unsuccessful shortlisted offeror's technical and price proposals are responsive and the offeror is a responsible offeror.(3)  The commission may not provide or award a stipend to an unsuccessful responsible shortlisted offeror more than one time. This paragraph shall not apply to an ATC.(p)  Due dates for technical proposal and price proposal.--(1)     The commission    may determine that a technical   proposal is due on a date prior to the due date for a price proposal. All due dates shall be clearly stated by the commission    in the request for proposals.   20260SB1377PN1798  - 10 - 123456789101112131415161718192021222324252627282930\n(2)  If    the commission    seeks submission of a technical   proposal prior to submission of the price proposal, a nonvoting member from the    commission    may seek written   clarification from an offeror between    the technical proposal   due date and price proposal due date, which includes    asking   questions or    seeking clarification    regarding a technical   proposal.(3)  After the technical proposal and price proposal due dates,    the commission    may    seek clarification    with responsible   offerors. Responsible offerors shall be accorded fair and equal treatment with respect to any opportunity    to provide   clarification   . In conducting    a meeting for the purpose of   clarification   , the    commission    may not disclose information   derived from proposals submitted by competing offerors.(q)  Selection for negotiation.--The responsible offeror whose proposal is determined in writing to be the most advantageous to the    commission    shall be selected for contract   negotiations necessary to finalize a contract or to clarify any remaining issue regarding scope, schedule or any other information provided by the selected best value offeror without impacting material price and evaluation factors.(r)  Incorporation of an unsuccessful offeror's ATC.--   Upon an   executed agreement for payment to an unsuccessful offeror in accordance with subsection (n) or (o), the    commission    may   utilize an     unsuccessful offeror's ATC. If the    commission    chooses   to incorporate     the ATC into the contract executed as a result of   the    subject     procurement, the commission and contractor shall   execute a change     order.   (s)  Proposal validity period.--The request for proposal shall state the validity period for the proposal, unless 20260SB1377PN1798  - 11 - 123456789101112131415161718192021222324252627282930\nextended by the    mutual consent of the    commission    and offerors   .  (t)  Evaluation committee.--(1)  Notwithstanding any other provisions of this chapter, an evaluation committee under this chapter shall consist of at least five employees as determined by the commission. An individual who has been employed by an offeror within the preceding five years may not participate in the evaluation of any proposals submitted by that offeror.(2)  Nothing in this subsection shall be construed to prohibit an employee of the Department of Transportation to participate on an evaluation committee for the commission.\u00a7 9804.  Applicability of other laws.(a)  Construction.--Except as provided under subsection (b), l  aws    related to the    design   , construction, operation or financing   of a project in effect on the date the agreement is fully executed shall apply to the agreement between the    commission    and   contractor. The provisions shall also include:(1)  The act of May 1, 1913 (P.L.155, No.104), referred to as the Separations Act.(2)  The act of August 15, 1961 (P.L.987, No.442), known as the Pennsylvania Prevailing Wage Act.(b)  Application.--Only the following provisions of 62 Pa.C.S. (relating to procurement) shall apply to this chapter:(1)  Section 102 (relating to application of part).(2)  Section 107 (relating to reciprocal limitations).(3)  Section 301 (relating to procurement responsibility).(4)  Section 521 (relating to cancellation of invitations for bids or requests for proposals).(5)  Section 531 (relating to debarment or suspension).20260SB1377PN1798  - 12 - 123456789101112131415161718192021222324252627282930\n(6)  Section 541 (relating to approval of accounting system).(7)  Section 542 (relating to multiterm contracts).(8)  Section 551 (relating to right to inspect plant).(9)  Section 552 (relating to right to audit records).(10)  Section 562 (relating to anticompetitive practices).(11)  Section 563 (relating to retention of procurement records).(12)  Section 902 (relating to bid or proposal security).(13)  Section 903 (relating to contract performance security and payment bonds).(14)  Section 904 (relating to copies of bonds).(15)  Chapter 17 (relating to legal and contractual remedies).(16)  Chapter 23 (relating to ethics in public contracting).(17)  Chapter 35 (relating to Iran-free procurement).(18)  Chapter 36 (relating to prohibited contracts).(19)  Section 3701 (relating to contract provisions prohibiting discrimination).(20)  Section 3921 (relating to retainage).(21)  Section 3922 (relating to payment of retainage to subcontractors).(22)  Section 3931 (relating to performance by contractor or subcontractor).(23)  Section 3932 (relating to government agency's progress payment obligations).(24)  Section 3933 (relating to contractors' and subcontractors' payment obligations).20260SB1377PN1798  - 13 - 123456789101112131415161718192021222324252627282930\n(25)  Section 3934 (relating to withholding of payment for good faith claims).(26)  Section 3935 (relating to penalty and attorney fees).(27)  Section 3936 (relating to contracts involving Federal aid).(28)  Section 3937 (relating to certain provisions unenforceable).(29)  Section 3938 (relating to applicability).(30)  Section 3939 (relating to claims by innocent parties).(31)  Section 3941 (relating to substantial/final payment under contract).(32)  Section 3942 (relating to arbitration).(33)  Section 4506 (relating to liability for increased costs).(34)  Section 4507 (relating to noncollusion affidavits).\u00a7 9805.  Limitation on powers and duties and existing contracts.(a)  Restriction.--The powers and duties of     the    commission   under this chapter may not be exercised beginning    four    years   after the effective date of this section.(b)  Exception.--Notwithstanding subsection (a), all contracts procured by use of this chapter, which are fully executed prior to eight years after the effective date of this section, shall remain in full force and effect, unless terminated in accordance with the terms of the contract.\u00a7 9806.  Project reporting.(a)     Project information.--The commission shall include   project information related to design build best value on the commission's publicly accessible Internet website.20260SB1377PN1798  - 14 - 123456789101112131415161718192021222324252627282930\n(b)  Report.--The commission shall prepare a report on design build best value. The report shall include, and is not limited to, the description of any project approved, including the conditions for use under section 9803 (relating to design build best value process), cost benefit analysis of pursuing the project with design build best value instead of normal procurement methods, recommendations to improve the act and descriptions of how the commission is managing design build best value, including any policy guidance. The commission shall complete the report following completion of the procurement using design build best value and provide a copy to the chairperson and minority chairperson of the Transportation Committee of the Senate and the chairperson and minority chairperson of the Transportation Committee of the House of Representatives.Section 2.  This act shall take effect immediately.20260SB1377PN1798  - 15 - 12345678910111213141516\n"
+  },
+  {
+    "content_hash": "8c7c5cf5b2e294ee6b2a58f8f40ffe8d",
+    "url": "https://www.palegis.us/legislation/bills/2025/sb1378",
+    "bill_id": "SB1378",
+    "bill_name": "Senate Bill 1378",
+    "short_des": "An Act amending Title 40 (Insurance) of the Pennsylvania Consolidated Statutes, providing for third-party access to dental insurance contracts; and promulgating regulations.",
+    "memo_name": "Regulating the Practice of Leasing Dental Provider Networks - opens in a new tab",
+    "memo_link": "/senate/co-sponsorship/memo?memoID=48758&document=SB1378",
+    "prime_sponsor": {
+      "name": "Senator David Argall",
+      "party": "R",
+      "district": "Senate District\u00a029"
+    },
+    "last_action": "Last Action: Referred to Banking & Insurance, June 15, 2026 Senate",
+    "timeline": {
+      "Bill was introduced": [
+        "In the Senate"
+      ],
+      "Referred to Committee": [
+        "Bill has not yet reached this milestone"
+      ],
+      "Reported from Committee": [
+        "Bill has not yet reached this milestone"
+      ],
+      "Bill Receives Third Consideration": [
+        "Bill has not yet reached this milestone"
+      ],
+      "In the House": [
+        "Bill has not yet reached this milestone"
+      ],
+      "Executive Action": [
+        "Bill has not yet reached this milestone"
+      ]
+    },
+    "actions": [
+      {
+        "action": "1814\nReferred to Banking & Insurance,  June\u00a015,\u00a02026",
+        "doc": "2025-2026 Regular Session SB 1378 PN 1814 Bill Text (PDF)",
+        "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1378/PN1814",
+        "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1378/PN1814"
+      }
+    ],
+    "votes": [],
+    "bill_text": "\n PRINTER'S NO.  1814 THE GENERAL ASSEMBLY OF PENNSYLVANIASENATE BILL No.1378 Session of 2026 INTRODUCED BY ARGALL, JUNE 15, 2026 REFERRED TO BANKING AND INSURANCE, JUNE 15, 2026 AN ACTAmending Title 40 (Insurance) of the Pennsylvania Consolidated Statutes, providing for third-party access to dental insurance contracts; and promulgating regulations.The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:Section 1.  Title 40 of the Pennsylvania Consolidated Statutes is amended by adding a chapter to read:CHAPTER 68THIRD-PARTY ACCESS TO DENTAL INSURANCE CONTRACTSSec.6801.  Definitions.6802.  Leasing.\u00a7 6801.  Definitions.The following words and phrases when used in this chapter shall have the meanings given to them in this section unless the context clearly indicates otherwise:\"Affiliate.\"  A company that controls, is controlled by or is under common control with another company.\"Children's Health Insurance Program.\"  As defined under 12345678910111213141516171819\nsection 9103 (relating to definitions).\"Contracting entity.\"  A person or entity that enters into a direct contract with a provider for the delivery of dental services in the ordinary course of business, including a third-party administrator or a dental carrier.\"Dental benefits plan.\"  A benefits plan that pays or provides dental expense benefits for covered dental services and is delivered or issued for delivery in this Commonwealth by or through a dental carrier or on a stand-alone basis.\"Dental carrier.\"  A dental insurance company, dental service corporation or dental plan organization authorized to provide a dental benefits plan in this Commonwealth or a health benefits plan in this Commonwealth that includes coverage for dental services.\"Dental service.\"  A service for the diagnosis, prevention, treatment or cure of a dental condition, illness, injury or disease. The term shall not include a service delivered by a provider under a health benefits plan that is billed as a medical service under the health benefits plan.\"Medical assistance.\"  As defined under section 4802 (relating to definitions).\"Provider network contract.\"  A contract between a contracting entity and a provider specifying the rights and responsibilities of the contracting entity and providing for the delivery of and payment for dental services to covered persons.\"Third party.\"  A person or entity that enters into a contract with a contracting entity or with another third party to gain access to the dental services or contractual discounts of a provider network contract. The term shall not include an employer or other group for which the contracting entity or 20260SB1378PN1814  - 2 - 123456789101112131415161718192021222324252627282930\ndental carrier provides administrative services, including the payment of claims.\u00a7 6802.  Leasing.(a)  Access to provider network contract allowed.--A contracting entity may grant a third party access to the following, subject to the requirements of subsections (b) and (c):(1)  A provider network contract.(2)  A provider's dental services or contractual discounts provided pursuant to a provider network contract.(b)  Access not required.--At the time the contract is entered into, sold, leased or renewed or when material modifications are made to a contract relevant to granting access to a provider network contract to a third party, the dental carrier shall allow any provider that is part of the carrier's provider network to choose not to participate in third-party access to the contract or to enter into a contract directly with the third party that acquired the provider network. If the original dental carrier leases the provider network and a provider chooses not to participate in third-party access to the provider network, the provider may not be required to cancel or otherwise end the contractual relationship with the original dental carrier.(c)  Requirements for access.--A contracting entity may grant a third party access to a provider network contract or a provider's dental services or contractual discounts provided pursuant to a provider network contract if:(1)  The contract specifically states:(i)  That the contracting entity may enter into an agreement with a third party, allowing the third party to 20260SB1378PN1814  - 3 - 123456789101112131415161718192021222324252627282930\nobtain the contracting entity's rights and responsibilities as if the third party were the contracting entity.(ii)  If the contracting entity is a dental carrier, that the provider chose to participate in third-party access at the time the provider network contract was entered into or renewed.(2)  The third party accessing the contract agrees to comply with all of the contract's terms, including the third party's obligation concerning patient steerage.(3)  The contracting entity identifies to the provider, in writing or electronic form, each third party in existence as of the date the contract is entered into, sold, leased or renewed.(4)  The contracting entity identifies all third parties in existence in a list on the entity's publicly accessible Internet website, which must be updated at least once every 90 days.(5)  The contracting entity requires each third party to identify the source of the discount on all remittance advices or explanations of payment under which a discount is taken. This paragraph shall not apply to electronic transactions mandated by The Health Insurance Portability and Accountability Act of 1996 (Public Law 104-191, 110 Stat. 1936).(6)  The contracting entity notifies the third party of termination of a provider network contract no later than 30 days from the termination date with the contracting entity.(7)  A third party's right to a provider's discounted rate ceases as of the termination date of the provider 20260SB1378PN1814  - 4 - 123456789101112131415161718192021222324252627282930\nnetwork contract. The contracting entity shall make available a copy of the provider network contract relied on in the adjudication of a claim to a provider within 30 days of a request from the provider.(8)  The third-party access provision of any provider contract is clearly identified in the provider contract, including notice that the contract grants third-party access to the provider network and that the dentist has the right to choose not to participate in third-party access.(d)  Discounted reimbursement not required.--A provider shall not be bound by or required to perform dental services for discounted reimbursement under a provider network contract that has been granted to a third party in violation of subsection (c)(1), (2), (3), (4) or (8).(e)  Waiver not permitted.--The provisions of this section shall not be waived by contract. A contractual arrangement in conflict with the provisions of this section or that purports to waive any requirements of this section shall be null and void and unenforceable.(f)  Rules and regulations.--The department shall adopt and promulgate rules and regulations necessary to effectuate the purposes of this chapter, which shall include penalty provisions for violations of this chapter.(g)  Applicability.--(1)  The provisions of this section shall not apply to:(i)  Access to a provider network contract that is granted to a dental carrier or an entity operating in accordance with the same brand licensee program as the contracting entity or to an entity that is an affiliate of the contracting entity. A list of the contracting 20260SB1378PN1814  - 5 - 123456789101112131415161718192021222324252627282930\nentity's affiliates must be made available to a provider on the contracting entity's publicly accessible Internet website.(ii)  A provider network contract for dental services provided to beneficiaries of State-sponsored health programs, including Medicare, medical assistance and the Children's Health Insurance Program.(2)  This chapter shall apply to provider network contracts delivered, issued, executed or renewed in this Commonwealth on or after the effective date of this paragraph.Section 2.  This act shall take effect in 60 days.20260SB1378PN1814  - 6 - 123456789101112\n"
+  },
+  {
+    "content_hash": "1b550506b69aad6bad688a125dcff0a2",
+    "url": "https://www.palegis.us/legislation/bills/2025/sb1379",
+    "bill_id": "SB1379",
+    "bill_name": "Senate Bill 1379",
+    "short_des": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in post-trial matters, further providing for scope of subchapter and for eligibility for relief,  . . .providing for postconviction resentencing relief for defendant survivors of domestic violence, sexual violence or human trafficking and further providing for jurisdiction and proceedings; and, in sentencing, further providing for sentencing procedure for murder of the first degree and providing for criminal prosecutions involving defendant survivors of domestic violence, sexual violence or human trafficking.",
+    "memo_name": "Alternative Sentences for Victims of Domestic & Sexual Violence - opens in a new tab",
+    "memo_link": "/senate/co-sponsorship/memo?memoID=47560&document=SB1379",
+    "prime_sponsor": {
+      "name": "Senator Amanda Cappelletti",
+      "party": "D",
+      "district": "Senate District\u00a017"
+    },
+    "cosponsors": [
+      {
+        "name": "Sen. Vincent Hughes",
+        "party": "D",
+        "district": "Senate District\u00a07"
+      },
+      {
+        "name": "Sen. Art Haywood",
+        "party": "D",
+        "district": "Senate District\u00a04"
+      },
+      {
+        "name": "Sen. Wayne Fontana",
+        "party": "D",
+        "district": "Senate District\u00a042"
+      },
+      {
+        "name": "Sen. Jay Costa",
+        "party": "D",
+        "district": "Senate District\u00a043"
+      },
+      {
+        "name": "Sen. Elder Vogel",
+        "party": "R",
+        "district": "Senate District\u00a047"
+      },
+      {
+        "name": "Sen. Judith Schwank",
+        "party": "D",
+        "district": "Senate District\u00a011"
+      },
+      {
+        "name": "Sen. Nikil Saval",
+        "party": "D",
+        "district": "Senate District\u00a01"
+      },
+      {
+        "name": "Sen. John Kane",
+        "party": "D",
+        "district": "Senate District\u00a09"
+      }
+    ],
+    "last_action": "Last Action: Referred to Judiciary, June 15, 2026 Senate",
+    "timeline": {
+      "Bill was introduced": [
+        "In the Senate"
+      ],
+      "Referred to Committee": [
+        "Bill has not yet reached this milestone"
+      ],
+      "Reported from Committee": [
+        "Bill has not yet reached this milestone"
+      ],
+      "Bill Receives Third Consideration": [
+        "Bill has not yet reached this milestone"
+      ],
+      "In the House": [
+        "Bill has not yet reached this milestone"
+      ],
+      "Executive Action": [
+        "Bill has not yet reached this milestone"
+      ]
+    },
+    "actions": [
+      {
+        "action": "1815\nReferred to Judiciary,  June\u00a015,\u00a02026",
+        "doc": "2025-2026 Regular Session SB 1379 PN 1815 Bill Text (PDF)",
+        "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1379/PN1815",
+        "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1379/PN1815"
+      }
+    ],
+    "votes": [],
+    "bill_text": "\n PRINTER'S NO.  1815 THE GENERAL ASSEMBLY OF PENNSYLVANIASENATE BILL No.1379 Session of 2026 INTRODUCED BY CAPPELLETTI, HUGHES, HAYWOOD, FONTANA, COSTA, VOGEL, SCHWANK, SAVAL, KANE AND L. WILLIAMS, JUNE 15, 2026 REFERRED TO JUDICIARY, JUNE 15, 2026 AN ACTAmending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in post-trial matters, further providing for scope of subchapter and for eligibility for relief, providing for postconviction resentencing relief for defendant survivors of domestic violence, sexual violence or human trafficking and further providing for jurisdiction and proceedings; and, in sentencing, further providing for sentencing procedure for murder of the first degree and providing for criminal prosecutions involving defendant survivors of domestic violence, sexual violence or human trafficking.The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:Section 1.  Section 9542 of Title 42 of the Pennsylvania Consolidated Statutes is amended to read:\u00a7 9542.  Scope of subchapter.This subchapter provides for an action by which persons convicted of crimes they did not commit and persons serving illegal sentences may obtain collateral relief. This subchapter also provides for an action by which certain survivors of domestic violence, sexual violence or human trafficking may obtain postconviction resentencing relief. The action 12345678910111213141516171819202122\nestablished in this subchapter shall be the sole means of obtaining collateral relief and encompasses all other common law and statutory remedies for the same purpose that exist when this subchapter takes effect, including habeas corpus and coram nobis. This subchapter is not intended to limit the availability of remedies in the trial court or on direct appeal from the judgment of sentence, to provide a means for raising issues waived in prior proceedings or to provide relief from collateral consequences of a criminal conviction. Except as specifically provided otherwise, all provisions of this subchapter shall apply to capital and noncapital cases.Section 2.  Section 9543(a)(2) of Title 42 is amended by adding a subparagraph to read:\u00a7 9543.  Eligibility for relief.(a)  General rule.--To be eligible for relief under this subchapter, the petitioner must plead and prove by a preponderance of the evidence all of the following:* * *(2)  That the conviction or sentence resulted from one or more of the following:* * *(ix)  In the case of a petition under section 9543.2 (relating to postconviction resentencing relief for defendant survivors of domestic violence, sexual violence or human trafficking)   , the petitioner's victimization was   a significant contributing factor to the petitioner's criminal conduct. * * *Section 3.  Title 42 is amended by adding a section to read:\u00a7 9543.2.  Postconviction resentencing relief for defendant 20260SB1379PN1815  - 2 - 123456789101112131415161718192021222324252627282930\nsurvivors of domestic violence, sexual violence or human trafficking.(a)  Petition.--A petitioner convicted of a criminal offense in a court of this Commonwealth who is serving a term of imprisonment or awaiting execution because of a sentence of death may petition the sentencing court for postconviction resentencing relief under this section if the petitioner proves all of the following:(1)  The petitioner was a survivor of domestic violence, sexual violence or human trafficking.(2)  The petitioner's victimization was a significant contributing factor to the petitioner's criminal conduct.(b)  Filing.--A petition under this section shall be filed in the court of common pleas in which the petitioner was convicted.(c)  Contents of petition.--A petition under this section shall include all of the following:(1)  The grounds for relief.(2)  A statement of the facts supporting the grounds for relief.(3)  Documentation showing that the petitioner is either:(i)  currently serving a sentence of imprisonment; or(ii)  awaiting execution of a sentence of death.(4)  Evidence supporting the petitioner's claim that the petitioner was a survivor of domestic violence, sexual violence or human trafficking.(5)  Evidence demonstrating that the petitioner's victimization was a significant contributing factor to the petitioner's criminal conduct.(6)  In a capital case, an averment that the petitioner's status as a survivor under this section establishes a 20260SB1379PN1815  - 3 - 123456789101112131415161718192021222324252627282930\nmitigating circumstance.(d)  Corroborating evidence.--(1)  The petitioner shall provide at least one piece of evidence corroborating that the petitioner was a survivor at the time of the offense. A criminal conviction of a perpetrator shall not be required to establish survivor status.(2)  At least one piece of corroborating evidence under paragraph (1) shall consist of any of the following:(i)  A court record.(ii)  A presentence report.(iii)  A social services record.(iv)  A hospital or medical record.(v)  A sworn statement from a witness other than the petitioner.(vi)  A law enforcement record.(vii)  A domestic incident report.(viii)  A protective order.(3)  Additional corroborating evidence may include any of the following:(i)  A county jail record or a Department of Corrections record.(ii)  Verification of consultation with a licensed medical or mental health provider.(iii)  Documentation from a court employee acting within the scope of employment.(iv)  Documentation from a member of the clergy.(v)  Documentation from an attorney or social worker.(vi)  Documentation from a victim advocate or counselor.20260SB1379PN1815  - 4 - 123456789101112131415161718192021222324252627282930\n(vii)  Documentation from an agency that assists victims of abuse.(viii)  Expert testimony from a psychiatrist, psychologist or other mental health professional, including testimony regarding trauma, coercive control or post-traumatic stress disorder.(e)  Notice to Commonwealth.--Upon receipt of a petition under subsection (a), the court shall notify the attorney for the Commonwealth and shall afford the attorney for the Commonwealth an opportunity to respond.(f)  Hearing.--(1)  After the filing of a petition under this section, the court shall review the petition, any answer filed by the attorney for the Commonwealth and the record in the matter. The court shall conduct a hearing if the petition complies with subsections (c) and (d). If the court finds that the petition does not comply with subsections (c) and (d), the court shall notify the petitioner and deny the petition without prejudice.(2)  If the judge who imposed the original sentence is no longer serving on the court, the petition shall be assigned in accordance with rules of court.(3)  The court shall provide notice of the hearing to the petitioner, the attorney for the Commonwealth and any victim entitled to notice under law. The notice shall specify the date, time and place of the hearing.(4)  At the hearing, the court shall have the following duties:(i)  Receive testimony from witnesses presented by either party.20260SB1379PN1815  - 5 - 123456789101112131415161718192021222324252627282930\n(ii)  Receive victim testimony, if applicable.(iii)  Admit and consider other relevant evidence, including documentary evidence and expert testimony, necessary to determine whether the petitioner was a survivor of domestic violence, sexual violence or human trafficking and whether the petitioner's victimization was a significant contributing factor to the petitioner's criminal conduct.(5)  In determining whether the petitioner's victimization was a significant contributing factor to the petitioner's criminal conduct, the court may consider expert testimony and evidence of trauma, coercive control or post-traumatic stress disorder.(6)  The court may determine that the petitioner's victimization was a significant contributing factor to the petitioner's criminal conduct regardless of whether the petitioner raised an affirmative defense at trial or at the time of the offense.(g)  Burden of proof.--The petitioner has the burden of proving by a preponderance of the evidence that the petitioner qualifies for relief under this section.(h)  Nonwaiver.--The right of a petitioner to seek relief under this section may not be waived. A waiver of the right to seek relief under this section, including a waiver in a plea agreement, sentencing agreement or other agreement, shall be void and unenforceable.(i)  Findings and statement of reasons.--(1)  If the court denies relief under this section, the court shall make findings of fact and conclusions of law on the record and state in open court the reasons for the 20260SB1379PN1815  - 6 - 123456789101112131415161718192021222324252627282930\ndenial. The statement must include the court's determination regarding the petitioner's eligibility under this section.(2)  If the court grants relief under this section, the court shall make findings of fact and conclusions of law on the record and state in open court the reasons for the sentence imposed. The statement must include the court's determination regarding the petitioner's eligibility under this section and the extent to which the petitioner's victimization was a significant contributing factor to the petitioner's criminal conduct   .  (j)  Resentencing order.--If the court finds that the petitioner has established eligibility for relief under this section, the court may vacate the original sentence and resentence the petitioner in accordance with subsection (k) or impose any of the following:(1)  A sentence below the minimum sentence specified in the sentencing guidelines adopted by the Pennsylvania Commission on Sentencing.(2)  A sentence that does not include incarceration.(k)  Sentencing limitations.--(1)  If the court grants relief under this section, the court may not impose a sentence greater than any of the following:(i)  If the original sentence was life imprisonment without parole, a term of not more than 25 years.(ii)  If the original sentence was life imprisonment with parole, a term of not more than 20 years.(iii)  If the original sentence was 30 years or more, a term of not more than 15 years.(iv)  If the original sentence was 20 years or more, 20260SB1379PN1815  - 7 - 123456789101112131415161718192021222324252627282930\na term of not more than 10 years.(v)  If the original sentence was 15 years or more, a term of not more than seven and one-half years.(vi)  If the original sentence was eight years or more, a term of not more than four years.(vii)  If the original sentence was at least five years but less than eight years, a term of not more than two and one-half years.(viii)  If the original sentence was less than five years, a term of not more than 50% of the original sentence imposed.(2)  Sentencing guidelines adopted by the Pennsylvania Commission on Sentencing may not supersede the sentencing limitations under paragraph (1).(l)  Credit for time served.--A person who is resentenced under this section shall be given credit for time served toward the sentence originally imposed. A person whose time served exceeds the period of incarceration required by the reduced sentence shall be released.(m)  Definitions.--As used in this section, the following words and phrases shall have the meanings given to them in this subsection:\"Survivor.\"  A defendant who was a victim of domestic violence, sexual violence or human trafficking and was subjected to significant physical, sexual or psychological abuse.\"Victimization.\"  Domestic violence, sexual violence or human trafficking experienced by a survivor at the time of the offense.Section 4.  Sections 9545(b) and 9711(e) of Title 42 are amended by adding paragraphs to read:20260SB1379PN1815  - 8 - 123456789101112131415161718192021222324252627282930\n\u00a7 9545.  Jurisdiction and proceedings.* * *(b)  Time for filing petition.--* * *(2.1)  A petition under section 9543.2 (relating to p  ostconviction resentencing relief for defendant survivors of   domestic violence, sexual violence or human trafficking) shall not be subject to the time limitation under paragraph (1).* * *\u00a7 9711.  Sentencing procedure for murder of the first degree.* * *(e)  Mitigating circumstances.--Mitigating circumstances shall include the following:* * *(7.1)  The defendant was a survivor as defined in section 9730.4(f) (relating to criminal prosecutions involving defendant survivors of domestic violence, sexual violence or human trafficking)   .  * * *Section 5.  Title 42 is amended by adding a section to read:\u00a7 9730.4.  Criminal prosecutions involving defendant survivors of domestic violence, sexual violence or human trafficking.(a)  Consideration by court.--In imposing a sentence for an offense committed by a defendant who is a survivor, the court shall consider evidence that the defendant was a survivor of domestic violence, sexual violence or human trafficking and that the defendant's victimization was a significant contributing factor to the defendant's criminal conduct.20260SB1379PN1815  - 9 - 123456789101112131415161718192021222324252627282930\n(b)  Mitigating factor.--If the court finds that the defendant's victimization was a significant contributing factor to the defendant's criminal conduct, the court shall consider that finding as a mitigating factor in determining the appropriate sentence and may impose any of the following:(1)  A sentence below the minimum sentence specified in the sentencing guidelines adopted by the Pennsylvania Commission on Sentencing.(2)  A sentence that does not include incarceration.(c)  Limitation.--(1)  The court may not impose a sentence under this section greater than any of the following:(i)  If the maximum sentence is life imprisonment without parole, a term of not more than 25 years.(ii)  If the maximum sentence is life imprisonment with parole, a term of not more than 20 years.(iii)  If the maximum sentence is 30 years or more, a term of not more than 15 years.(iv)  If the maximum sentence is 20 years or more, a term of not more than 10 years.(v)  If the maximum sentence is 15 years or more, a term of not more than seven and one-half years.(vi)  If the maximum sentence is eight years or more, a term of not more than four years.(vii)  If the maximum sentence is at least five years but less than eight years, a term of not more than two and one-half years.(viii)  If the maximum sentence is less than five years, a term of not more than 50% of the original sentence imposed.20260SB1379PN1815  - 10 - 123456789101112131415161718192021222324252627282930\n(2)  Sentencing guidelines adopted by the Pennsylvania Commission on Sentencing may not supersede the sentencing limitations under paragraph (1).(d)  Credit for time served.--A person who is sentenced under this section shall be given credit for time served as provided under section 9760 (relating to credit for time served).(e)  Nonwaiver.--The right of a defendant to present evidence and request consideration under this section may not be waived. A waiver of the right to present evidence or request consideration under this section, including a waiver in a plea agreement, sentencing agreement or other agreement, shall be void and unenforceable.(f)  Definitions.--As used in this section, the following words and phrases shall have the meanings given to them in this subsection unless the context clearly indicates otherwise:\"Survivor.\"  A defendant who, at the time of the offense, was a victim of domestic violence, sexual violence or human trafficking and was subjected to significant physical, sexual or psychological abuse.\"Victimization.\"  Domestic violence, sexual violence or human trafficking experienced by a survivor at the time of the offense.Section 6.  This act shall take effect in 60 days.20260SB1379PN1815  - 11 - 1234567891011121314151617181920212223\n"
+  },
+  {
+    "content_hash": "dd5847d216913616b32c4560c7962eb9",
+    "url": "https://www.palegis.us/legislation/bills/2025/sb1381",
+    "bill_id": "SB1381",
+    "bill_name": "Senate Bill 1381",
+    "short_des": "An Act amending Title 74 (Transportation) of the Pennsylvania Consolidated Statutes, providing for waterborne line paint standards on State roadways.",
+    "memo_name": "Increasing Thickness and Reflectivity of Paint on State-Owned Roadways - opens in a new tab",
+    "memo_link": "/senate/co-sponsorship/memo?memoID=48070&document=SB1381",
+    "prime_sponsor": {
+      "name": "Senator Michele Brooks",
+      "party": "R",
+      "district": "Senate District\u00a050"
+    },
+    "cosponsors": [
+      {
+        "name": "Sen. Camera Bartolotta",
+        "party": "R",
+        "district": "Senate District\u00a046"
+      },
+      {
+        "name": "Sen. Devlin Robinson",
+        "party": "R",
+        "district": "Senate District\u00a037"
+      },
+      {
+        "name": "Sen. Rosemary Brown",
+        "party": "R",
+        "district": "Senate District\u00a040"
+      },
+      {
+        "name": "Sen. Lindsey Williams",
+        "party": "D",
+        "district": "Senate District\u00a038"
+      },
+      {
+        "name": "Sen. Doug Mastriano",
+        "party": "R",
+        "district": "Senate District\u00a033"
+      },
+      {
+        "name": "Sen. Scott Hutchinson",
+        "party": "R",
+        "district": "Senate District\u00a021"
+      },
+      {
+        "name": "Sen. Nick Pisciottano",
+        "party": "D",
+        "district": "Senate District\u00a045"
+      }
+    ],
+    "last_action": "Last Action: Referred to Transportation, June 15, 2026 Senate",
+    "timeline": {
+      "Bill was introduced": [
+        "In the Senate"
+      ],
+      "Referred to Committee": [
+        "Bill has not yet reached this milestone"
+      ],
+      "Reported from Committee": [
+        "Bill has not yet reached this milestone"
+      ],
+      "Bill Receives Third Consideration": [
+        "Bill has not yet reached this milestone"
+      ],
+      "In the House": [
+        "Bill has not yet reached this milestone"
+      ],
+      "Executive Action": [
+        "Bill has not yet reached this milestone"
+      ]
+    },
+    "actions": [
+      {
+        "action": "1818\nReferred to Transportation,  June\u00a015,\u00a02026",
+        "doc": "2025-2026 Regular Session SB 1381 PN 1818 Bill Text (PDF)",
+        "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1381/PN1818",
+        "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1381/PN1818"
+      }
+    ],
+    "votes": [],
+    "bill_text": "\n PRINTER'S NO.  1818 THE GENERAL ASSEMBLY OF PENNSYLVANIASENATE BILL No.1381 Session of 2026 INTRODUCED BY BROOKS, BARTOLOTTA, ROBINSON, BROWN, L. WILLIAMS, MASTRIANO, HUTCHINSON AND PISCIOTTANO, JUNE 15, 2026 REFERRED TO TRANSPORTATION, JUNE 15, 2026 AN ACTAmending Title 74 (Transportation) of the Pennsylvania Consolidated Statutes, providing for waterborne line paint standards on State roadways.The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:Section 1.  Title 74 of the Pennsylvania Consolidated Statutes is amended by adding a chapter to read:CHAPTER 97WATERBORNE LINE PAINT STANDARDS ON STATE ROADWAYSSec.9701.  Definitions.9702.  Requirements.\u00a7 9701.  Definitions.The following words and phrases when used in this chapter shall have the meanings given to them in this section unless the context clearly indicates otherwise:\"Advanced resin technology.\"  A resin-based material certified by the manufacturer for application down to 35   \u00ba  123456789101112131415161718\nFahrenheit and having a minimum film formation temperature of less than 40   \u00ba   Fahrenheit.   \"Department.\"  The Department of Transportation of the Commonwealth.\"State roadway.\"  An interstate highway or a three-digit or four-digit State route on the non-Federal aid highway system under the jurisdiction of the department.\u00a7 9702.  Requirements.(a)  Duties of department.--(1)  No later than 90 days after the effective date of this paragraph, the department shall require the waterborne paint application on a State roadway of center and edge lines to meet the following requirements:(i)  A waterborne paint shall not contain a binder other than advanced resin technology to improve line durability in low-temperature climates.(ii)  The thickness of a waterborne paint must be a minimum of 18 mils.(iii)  A State roadway more than 16 feet wide must have center and edge lines that are no less than four inches wide when a waterborne paint application is used.(2)  A State roadway with a waterborne paint application of center and edge lines must be repainted at least once every 24 months consistent with this subsection.(b)  Construction.--Nothing in this section shall be construed as restricting the department from using materials other than waterborne paint for the application of center and edge lines that meet or exceed the minimum requirements under the manual published in accordance with 75 Pa.C.S. \u00a7 6121 (relating to uniform system of traffic-control devices).20260SB1381PN1818  - 2 - 123456789101112131415161718192021222324252627282930\n(c)  Temporary regulations.--(1)  To facilitate the prompt implementation of this section, the department shall issue temporary regulations as may be necessary and appropriate to implement and administer this section.(2)  Upon the issuance of the temporary regulations, the department shall transmit notice of the issuance of the temporary regulations to the Legislative Reference Bureau for publication in the next available issue of the Pennsylvania Bulletin.(3)  The temporary regulations shall expire no later than three years following their publication in the Pennsylvania Bulletin or upon publication of the final-form regulations, whichever occurs first.(4)  The temporary regulations shall be exempt from the following:(i)  Section 612 of the act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929.(ii)  Sections 201, 202, 203, 204 and 205 of the act of July 31, 1968 (P.L.769, No.240), referred to as the Commonwealth Documents Law.(iii)  Sections 204(b) and 301(10) of the act of October 15, 1980 (P.L.950, No.164), known as the Commonwealth Attorneys Act.(iv)  The act of June 25, 1982 (P.L.633, No.181), known as the Regulatory Review Act.(5)  The department's authority to adopt temporary regulations under this subsection shall expire three years after the effective date of this paragraph. Regulations 20260SB1381PN1818  - 3 - 123456789101112131415161718192021222324252627282930\nadopted after this period shall be promulgated as provided by law.(d)  Expiration.--(1)  If, as a result of a change in the minimum requirements under the Federal Highway Administration's Manual on Uniform Traffic Control Devices for Streets and Highways, the department adopts through regulation an update to the minimum requirements specified in the manual published in accordance with 75 Pa.C.S. \u00a7 6121 and determines that the updated minimum requirements exceed both the previous minimum requirements and the requirements under this section, the department shall transmit notice of the adoption and determination to the Legislative Reference Bureau for publication in the next available issue of the Pennsylvania Bulletin.(2)  Upon publication of the notice under paragraph (1), this section shall expire.Section 2.  This act shall take effect immediately.20260SB1381PN1818  - 4 - 123456789101112131415161718\n"
   }
 ]
