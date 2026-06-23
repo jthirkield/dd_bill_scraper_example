@@ -1,0 +1,16 @@
+{
+  "date": "2026-06-23",
+  "errors": [
+    {
+      "bill_id": "SB1368",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1368",
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'parent'",
+      "traceback": [
+        "  File \"/home/runner/work/dd_bill_scraper_example/dd_bill_scraper_example/bill_scraper.py\", line 137, in <module>",
+        "    history_table=bill_page.find(string=re.compile(\"View Full History\")).parent.parent.find_next_sibling('div').table",
+        "AttributeError: 'NoneType' object has no attribute 'parent'"
+      ]
+    }
+  ]
+}
