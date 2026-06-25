@@ -1,0 +1,770 @@
+{
+  "date": "2026-06-25",
+  "additions": [
+    {
+      "bill_id": "SB0911",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb911",
+      "action": "Last Action: Amended on second consideration, June 24, 2026 (49-1) Senate"
+    },
+    {
+      "bill_id": "SB1061",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1061",
+      "action": "Last Action: Re-referred to Appropriations, June 24, 2026 Senate"
+    },
+    {
+      "bill_id": "SB1212",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1212",
+      "action": "Last Action: Re-reported as committed, June 24, 2026 Senate"
+    },
+    {
+      "bill_id": "SB1303",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1303",
+      "action": "Last Action: Re-referred to Appropriations, June 24, 2026 Senate"
+    },
+    {
+      "bill_id": "SB1355",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1355",
+      "action": "Last Action: Re-referred to Appropriations, June 24, 2026 Senate"
+    }
+  ],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "SB0482",
+      "changes": {
+        "content_hash": {
+          "from": "9afa59c6f676a455f2ccb0d31fa8a90e",
+          "to": "a0108b672674b239a5b3e0156b89ab8d"
+        },
+        "last_action": {
+          "from": "Last Action: Re-referred to Appropriations, June 22, 2026 Senate",
+          "to": "Last Action: (Remarks see Senate Journal Page ....), June 24, 2026 Senate"
+        },
+        "actions": {
+          "from": [
+            {
+              "action": "0440\nReferred to Aging & Youth,  March\u00a020,\u00a02025",
+              "doc": "2025-2026 Regular Session SB 0482 PN 0440 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB0482/PN0440",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB0482/PN0440"
+            },
+            {
+              "action": "1801\nReported as amended, June\u00a09,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 0482 PN 1801 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB0482/PN1801",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB0482/PN1801"
+            },
+            {
+              "action": "First consideration, June\u00a09,\u00a02026"
+            },
+            {
+              "action": "Second consideration, June\u00a022,\u00a02026"
+            },
+            {
+              "action": "Re-referred to Appropriations,  June\u00a022,\u00a02026"
+            }
+          ],
+          "to": [
+            {
+              "action": "0440\nReferred to Aging & Youth,  March\u00a020,\u00a02025",
+              "doc": "2025-2026 Regular Session SB 0482 PN 0440 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB0482/PN0440",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB0482/PN0440"
+            },
+            {
+              "action": "1801\nReported as amended, June\u00a09,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 0482 PN 1801 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB0482/PN1801",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB0482/PN1801"
+            },
+            {
+              "action": "First consideration, June\u00a09,\u00a02026"
+            },
+            {
+              "action": "Second consideration, June\u00a022,\u00a02026"
+            },
+            {
+              "action": "Re-referred to Appropriations,  June\u00a022,\u00a02026"
+            },
+            {
+              "action": "Re-reported as committed, June\u00a024,\u00a02026"
+            },
+            {
+              "action": "Third consideration and final passage, June\u00a024,\u00a02026 (27-23)"
+            },
+            {
+              "action": "(Remarks see Senate Journal Page ....), June\u00a024,\u00a02026"
+            }
+          ]
+        },
+        "votes": {
+          "from": [
+            {
+              "date": "Tuesday, June 9, 2026",
+              "type": "Senate AGING & YOUTH Committee Vote",
+              "bill": "Senate Bill 482 PN0440 A02341, Adopt Amendment - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=1&rollcallid=857&sessYr=2025&sessInd=0",
+              "YES Votes": "11",
+              "NO Votes": "0"
+            },
+            {
+              "date": "Tuesday, June 9, 2026",
+              "type": "Senate AGING & YOUTH Committee Vote",
+              "bill": "Senate Bill 482 PN0440, Reported as Amended - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=1&rollcallid=858&sessYr=2025&sessInd=0",
+              "YES Votes": "7",
+              "NO Votes": "4"
+            }
+          ],
+          "to": [
+            {
+              "date": "Wednesday, June 24, 2026",
+              "type": "Senate Floor Vote",
+              "bill": "Senate Bill 482 PN1801, Final Passage - opens in a new tab",
+              "link": "/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=440",
+              "YES Votes": "27",
+              "NO Votes": "23"
+            },
+            {
+              "date": "Wednesday, June 24, 2026",
+              "type": "Senate APPROPRIATIONS Committee Vote",
+              "bill": "Senate Bill 482 PN1801, Re-Reported as Committed - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=933&sessYr=2025&sessInd=0",
+              "YES Votes": "14",
+              "NO Votes": "8"
+            },
+            {
+              "date": "Tuesday, June 9, 2026",
+              "type": "Senate\u00a0AGING\u00a0&\u00a0YOUTH\u00a0Committee\u00a0Vote",
+              "bill": "\n11\n0\n - opens in a new tab\n",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=1&rollcallid=857&sessYr=2025&sessInd=0",
+              "YES Votes": "11",
+              "NO Votes": "0"
+            },
+            {
+              "date": "Tuesday, June 9, 2026",
+              "type": "Senate\u00a0AGING\u00a0&\u00a0YOUTH\u00a0Committee\u00a0Vote",
+              "bill": "\n7\n4\n - opens in a new tab\n",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=1&rollcallid=858&sessYr=2025&sessInd=0",
+              "YES Votes": "7",
+              "NO Votes": "4"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "SB1133",
+      "changes": {
+        "content_hash": {
+          "from": "9afa59c6f676a455f2ccb0d31fa8a90e",
+          "to": "67ec3f7c75d842deabd7ba20ad30977f"
+        },
+        "last_action": {
+          "from": "Last Action: Re-referred to Appropriations, June 22, 2026 Senate",
+          "to": "Last Action: Re-reported as committed, June 24, 2026 Senate"
+        },
+        "actions": {
+          "from": [
+            {
+              "action": "1382\nReferred to Consumer Protection & Professional Licensure,  Jan.\u00a09,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 1133 PN 1382 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1133/PN1382",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1133/PN1382"
+            },
+            {
+              "action": "1810\nReported as amended, June\u00a010,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 1133 PN 1810 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1133/PN1810",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1133/PN1810"
+            },
+            {
+              "action": "First consideration, June\u00a010,\u00a02026"
+            },
+            {
+              "action": "Second consideration, June\u00a022,\u00a02026"
+            },
+            {
+              "action": "Re-referred to Appropriations,  June\u00a022,\u00a02026"
+            }
+          ],
+          "to": [
+            {
+              "action": "1382\nReferred to Consumer Protection & Professional Licensure,  Jan.\u00a09,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 1133 PN 1382 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1133/PN1382",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1133/PN1382"
+            },
+            {
+              "action": "1810\nReported as amended, June\u00a010,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 1133 PN 1810 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1133/PN1810",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1133/PN1810"
+            },
+            {
+              "action": "First consideration, June\u00a010,\u00a02026"
+            },
+            {
+              "action": "Second consideration, June\u00a022,\u00a02026"
+            },
+            {
+              "action": "Re-referred to Appropriations,  June\u00a022,\u00a02026"
+            },
+            {
+              "action": "Re-reported as committed, June\u00a024,\u00a02026"
+            }
+          ]
+        },
+        "votes": {
+          "from": [
+            {
+              "date": "Wednesday, June 10, 2026",
+              "type": "Senate CONSUMER PROTECTION & PROFESSIONAL LICENSURE Committee Vote",
+              "bill": "Senate Bill 1133 PN1382 A03429, Adopt Amendment - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=7&rollcallid=882&sessYr=2025&sessInd=0",
+              "YES Votes": "14",
+              "NO Votes": "0"
+            },
+            {
+              "date": "Wednesday, June 10, 2026",
+              "type": "Senate CONSUMER PROTECTION & PROFESSIONAL LICENSURE Committee Vote",
+              "bill": "Senate Bill 1133 PN1382 A03429, Reported as Amended - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=7&rollcallid=883&sessYr=2025&sessInd=0",
+              "YES Votes": "14",
+              "NO Votes": "0"
+            }
+          ],
+          "to": [
+            {
+              "date": "Wednesday, June 24, 2026",
+              "type": "Senate APPROPRIATIONS Committee Vote",
+              "bill": "Senate Bill 1133 PN1810, Re-Reported as Committed - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=934&sessYr=2025&sessInd=0",
+              "YES Votes": "22",
+              "NO Votes": "0"
+            },
+            {
+              "date": "Wednesday, June 10, 2026",
+              "type": "Senate CONSUMER PROTECTION & PROFESSIONAL LICENSURE Committee Vote",
+              "bill": "Senate Bill 1133 PN1382 A03429, Adopt Amendment - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=7&rollcallid=882&sessYr=2025&sessInd=0",
+              "YES Votes": "14",
+              "NO Votes": "0"
+            },
+            {
+              "date": "Wednesday, June 10, 2026",
+              "type": "Senate\u00a0CONSUMER\u00a0PROTECTION\u00a0&\u00a0PROFESSIONAL\u00a0LICENSURE\u00a0Committee\u00a0Vote",
+              "bill": "\n14\n0\n - opens in a new tab\n",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=7&rollcallid=883&sessYr=2025&sessInd=0",
+              "YES Votes": "14",
+              "NO Votes": "0"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "SB1206",
+      "changes": {
+        "content_hash": {
+          "from": "bb14d983b4ab4a479995abe318e15215",
+          "to": "a0108b672674b239a5b3e0156b89ab8d"
+        },
+        "short_des": {
+          "from": "An Act amending the act of December 14, 1992 (P.L.1116, No.145), known as the Wholesale Prescription Drug Distributors License Act, further providing for definitions and for license application.",
+          "to": "An act amending the act of December 14, 1992 (P.L.1116, No.145), entitled \"An act providing minimum standards, terms and conditions for the licensing of persons who engage in wholesale distributions i . . .n interstate commerce of prescription drugs; and making a repeal,\" further providing for definitions and for license application."
+        },
+        "last_action": {
+          "from": "Last Action: Re-reported as committed, June 22, 2026 Senate",
+          "to": "Last Action: (Remarks see Senate Journal Page ....), June 24, 2026 Senate"
+        },
+        "actions": {
+          "from": [
+            {
+              "action": "1554\nReferred to Institutional Sustainability & Innovation,  March\u00a030,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 1206 PN 1554 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1206/PN1554",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1206/PN1554"
+            },
+            {
+              "action": "Reported as committed, June\u00a09,\u00a02026"
+            },
+            {
+              "action": "First consideration, June\u00a09,\u00a02026"
+            },
+            {
+              "action": "Second consideration, June\u00a010,\u00a02026"
+            },
+            {
+              "action": "Re-referred to Appropriations,  June\u00a010,\u00a02026"
+            },
+            {
+              "action": "Re-reported as committed, June\u00a022,\u00a02026"
+            }
+          ],
+          "to": [
+            {
+              "action": "1554\nReferred to Institutional Sustainability & Innovation,  March\u00a030,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 1206 PN 1554 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1206/PN1554",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1206/PN1554"
+            },
+            {
+              "action": "Reported as committed, June\u00a09,\u00a02026"
+            },
+            {
+              "action": "First consideration, June\u00a09,\u00a02026"
+            },
+            {
+              "action": "Second consideration, June\u00a010,\u00a02026"
+            },
+            {
+              "action": "Re-referred to Appropriations,  June\u00a010,\u00a02026"
+            },
+            {
+              "action": "Re-reported as committed, June\u00a022,\u00a02026"
+            },
+            {
+              "action": "1838\nAmended on third consideration, June\u00a023,\u00a02026 (49-0)",
+              "doc": "2025-2026 Regular Session SB 1206 PN 1838 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1206/PN1838",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1206/PN1838"
+            },
+            {
+              "action": "(Remarks see Senate Journal Page ....), June\u00a023,\u00a02026"
+            },
+            {
+              "action": "Third consideration and final passage, June\u00a024,\u00a02026 (50-0)"
+            },
+            {
+              "action": "(Remarks see Senate Journal Page ....), June\u00a024,\u00a02026"
+            }
+          ]
+        },
+        "votes": {
+          "from": [
+            {
+              "date": "Monday, June 22, 2026",
+              "type": "Senate APPROPRIATIONS Committee Vote",
+              "bill": "Senate Bill 1206 PN1554, Re-Reported as Committed - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=895&sessYr=2025&sessInd=0",
+              "YES Votes": "21",
+              "NO Votes": "0"
+            },
+            {
+              "date": "Tuesday, June 9, 2026",
+              "type": "Senate INSTITUTIONAL SUSTAINABILITY & INNOVATION Committee Vote",
+              "bill": "Senate Bill 1206 PN1554, Reported as Committed - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=72&rollcallid=868&sessYr=2025&sessInd=0",
+              "YES Votes": "11",
+              "NO Votes": "0"
+            }
+          ],
+          "to": [
+            {
+              "date": "Wednesday, June 24, 2026",
+              "type": "Senate Floor Vote",
+              "bill": "Senate Bill 1206 PN1838, Final Passage - opens in a new tab",
+              "link": "/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=438",
+              "YES Votes": "50",
+              "NO Votes": "0"
+            },
+            {
+              "date": "Tuesday, June 23, 2026",
+              "type": "Senate Floor Vote",
+              "bill": "Senate Bill 1206 PN1554 A03772, PENNYCUICK Amendment No. A-3772 - opens in a new tab",
+              "link": "/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=432",
+              "YES Votes": "49",
+              "NO Votes": "0"
+            },
+            {
+              "date": "Monday, June 22, 2026",
+              "type": "Senate\u00a0APPROPRIATIONS\u00a0Committee\u00a0Vote",
+              "bill": "\n21\n0\n - opens in a new tab\n",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=895&sessYr=2025&sessInd=0",
+              "YES Votes": "21",
+              "NO Votes": "0"
+            },
+            {
+              "date": "Tuesday, June 9, 2026",
+              "type": "Senate\u00a0INSTITUTIONAL\u00a0SUSTAINABILITY\u00a0&\u00a0INNOVATION\u00a0Committee\u00a0Vote",
+              "bill": "\n11\n0\n - opens in a new tab\n",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=72&rollcallid=868&sessYr=2025&sessInd=0",
+              "YES Votes": "11",
+              "NO Votes": "0"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "SB1273",
+      "changes": {
+        "content_hash": {
+          "from": "b4ba870ae2bd5effcd15067bfecaab1a",
+          "to": "a0108b672674b239a5b3e0156b89ab8d"
+        },
+        "last_action": {
+          "from": "Last Action: Re-reported as committed, June 22, 2026 Senate",
+          "to": "Last Action: (Remarks see Senate Journal Page ....), June 24, 2026 Senate"
+        },
+        "actions": {
+          "from": [
+            {
+              "action": "1610\nReferred to Transportation,  April\u00a017,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 1273 PN 1610 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1273/PN1610",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1273/PN1610"
+            },
+            {
+              "action": "Reported as committed, April\u00a021,\u00a02026"
+            },
+            {
+              "action": "First consideration, April\u00a021,\u00a02026"
+            },
+            {
+              "action": "Second consideration, April\u00a022,\u00a02026"
+            },
+            {
+              "action": "Re-referred to Appropriations,  June\u00a08,\u00a02026"
+            },
+            {
+              "action": "Re-reported as committed, June\u00a022,\u00a02026"
+            }
+          ],
+          "to": [
+            {
+              "action": "1610\nReferred to Transportation,  April\u00a017,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 1273 PN 1610 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1273/PN1610",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1273/PN1610"
+            },
+            {
+              "action": "Reported as committed, April\u00a021,\u00a02026"
+            },
+            {
+              "action": "First consideration, April\u00a021,\u00a02026"
+            },
+            {
+              "action": "Second consideration, April\u00a022,\u00a02026"
+            },
+            {
+              "action": "Re-referred to Appropriations,  June\u00a08,\u00a02026"
+            },
+            {
+              "action": "Re-reported as committed, June\u00a022,\u00a02026"
+            },
+            {
+              "action": "Third consideration and final passage, June\u00a024,\u00a02026 (48-2)"
+            },
+            {
+              "action": "(Remarks see Senate Journal Page ....), June\u00a024,\u00a02026"
+            }
+          ]
+        },
+        "votes": {
+          "from": [
+            {
+              "date": "Monday, June 22, 2026",
+              "type": "Senate APPROPRIATIONS Committee Vote",
+              "bill": "Senate Bill 1273 PN1610, Re-Reported as Committed - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=896&sessYr=2025&sessInd=0",
+              "YES Votes": "21",
+              "NO Votes": "0"
+            },
+            {
+              "date": "Tuesday, April 21, 2026",
+              "type": "Senate TRANSPORTATION Committee Vote",
+              "bill": "Senate Bill 1273 PN1610, Reported as Committed - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=19&rollcallid=720&sessYr=2025&sessInd=0",
+              "YES Votes": "14",
+              "NO Votes": "0"
+            }
+          ],
+          "to": [
+            {
+              "date": "Wednesday, June 24, 2026",
+              "type": "Senate Floor Vote",
+              "bill": "Senate Bill 1273 PN1610, Final Passage - opens in a new tab",
+              "link": "/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=439",
+              "YES Votes": "48",
+              "NO Votes": "2"
+            },
+            {
+              "date": "Monday, June 22, 2026",
+              "type": "Senate APPROPRIATIONS Committee Vote",
+              "bill": "Senate Bill 1273 PN1610, Re-Reported as Committed - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=896&sessYr=2025&sessInd=0",
+              "YES Votes": "21",
+              "NO Votes": "0"
+            },
+            {
+              "date": "Tuesday, April 21, 2026",
+              "type": "Senate\u00a0TRANSPORTATION\u00a0Committee\u00a0Vote",
+              "bill": "\n14\n0\n - opens in a new tab\n",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=19&rollcallid=720&sessYr=2025&sessInd=0",
+              "YES Votes": "14",
+              "NO Votes": "0"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "SB1334",
+      "changes": {
+        "content_hash": {
+          "from": "9afa59c6f676a455f2ccb0d31fa8a90e",
+          "to": "67ec3f7c75d842deabd7ba20ad30977f"
+        },
+        "last_action": {
+          "from": "Last Action: Re-referred to Appropriations, June 22, 2026 Senate",
+          "to": "Last Action: Re-reported as committed, June 24, 2026 Senate"
+        },
+        "actions": {
+          "from": [
+            {
+              "action": "1725\nReferred to Consumer Protection & Professional Licensure,  May\u00a020,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 1334 PN 1725 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1334/PN1725",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1334/PN1725"
+            },
+            {
+              "action": "1811\nReported as amended, June\u00a010,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 1334 PN 1811 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1334/PN1811",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1334/PN1811"
+            },
+            {
+              "action": "First consideration, June\u00a010,\u00a02026"
+            },
+            {
+              "action": "Second consideration, June\u00a022,\u00a02026"
+            },
+            {
+              "action": "Re-referred to Appropriations,  June\u00a022,\u00a02026"
+            }
+          ],
+          "to": [
+            {
+              "action": "1725\nReferred to Consumer Protection & Professional Licensure,  May\u00a020,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 1334 PN 1725 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1334/PN1725",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1334/PN1725"
+            },
+            {
+              "action": "1811\nReported as amended, June\u00a010,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 1334 PN 1811 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1334/PN1811",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1334/PN1811"
+            },
+            {
+              "action": "First consideration, June\u00a010,\u00a02026"
+            },
+            {
+              "action": "Second consideration, June\u00a022,\u00a02026"
+            },
+            {
+              "action": "Re-referred to Appropriations,  June\u00a022,\u00a02026"
+            },
+            {
+              "action": "Re-reported as committed, June\u00a024,\u00a02026"
+            }
+          ]
+        },
+        "votes": {
+          "from": [
+            {
+              "date": "Wednesday, June 10, 2026",
+              "type": "Senate CONSUMER PROTECTION & PROFESSIONAL LICENSURE Committee Vote",
+              "bill": "Senate Bill 1334 PN1725 A03568, Adopt Amendment - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=7&rollcallid=880&sessYr=2025&sessInd=0",
+              "YES Votes": "14",
+              "NO Votes": "0"
+            },
+            {
+              "date": "Wednesday, June 10, 2026",
+              "type": "Senate CONSUMER PROTECTION & PROFESSIONAL LICENSURE Committee Vote",
+              "bill": "Senate Bill 1334 PN1725 A03568, Reported as Amended - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=7&rollcallid=881&sessYr=2025&sessInd=0",
+              "YES Votes": "12",
+              "NO Votes": "2"
+            }
+          ],
+          "to": [
+            {
+              "date": "Wednesday, June 24, 2026",
+              "type": "Senate APPROPRIATIONS Committee Vote",
+              "bill": "Senate Bill 1334 PN1811, Re-Reported as Committed - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=936&sessYr=2025&sessInd=0",
+              "YES Votes": "22",
+              "NO Votes": "0"
+            },
+            {
+              "date": "Wednesday, June 10, 2026",
+              "type": "Senate CONSUMER PROTECTION & PROFESSIONAL LICENSURE Committee Vote",
+              "bill": "Senate Bill 1334 PN1725 A03568, Adopt Amendment - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=7&rollcallid=880&sessYr=2025&sessInd=0",
+              "YES Votes": "14",
+              "NO Votes": "0"
+            },
+            {
+              "date": "Wednesday, June 10, 2026",
+              "type": "Senate\u00a0CONSUMER\u00a0PROTECTION\u00a0&\u00a0PROFESSIONAL\u00a0LICENSURE\u00a0Committee\u00a0Vote",
+              "bill": "\n12\n2\n - opens in a new tab\n",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=7&rollcallid=881&sessYr=2025&sessInd=0",
+              "YES Votes": "12",
+              "NO Votes": "2"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "SB1368",
+      "changes": {
+        "content_hash": {
+          "from": "766ff0739a735068afe822c20e12eee8",
+          "to": "67ec3f7c75d842deabd7ba20ad30977f"
+        },
+        "last_action": {
+          "from": "Last Action: First consideration, June 10, 2026 Senate",
+          "to": "Last Action: Re-reported as committed, June 24, 2026 Senate"
+        },
+        "actions": {
+          "from": [
+            {
+              "action": "1774\nReferred to Communications & Technology,  June\u00a05,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 1368 PN 1774 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1368/PN1774",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1368/PN1774"
+            },
+            {
+              "action": "Reported as committed, June\u00a010,\u00a02026"
+            },
+            {
+              "action": "First consideration, June\u00a010,\u00a02026"
+            }
+          ],
+          "to": [
+            {
+              "action": "1774\nReferred to Communications & Technology,  June\u00a05,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 1368 PN 1774 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1368/PN1774",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1368/PN1774"
+            },
+            {
+              "action": "Reported as committed, June\u00a010,\u00a02026"
+            },
+            {
+              "action": "First consideration, June\u00a010,\u00a02026"
+            },
+            {
+              "action": "Second consideration, June\u00a022,\u00a02026"
+            },
+            {
+              "action": "Re-referred to Appropriations,  June\u00a022,\u00a02026"
+            },
+            {
+              "action": "Re-reported as committed, June\u00a024,\u00a02026"
+            }
+          ]
+        },
+        "votes": {
+          "from": [
+            {
+              "date": "Wednesday, June 10, 2026",
+              "type": "Senate COMMUNICATIONS & TECHNOLOGY Committee Vote",
+              "bill": "Senate Bill 1368 PN1774, Reported as Committed - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=5&rollcallid=877&sessYr=2025&sessInd=0",
+              "YES Votes": "11",
+              "NO Votes": "0"
+            }
+          ],
+          "to": [
+            {
+              "date": "Wednesday, June 24, 2026",
+              "type": "Senate APPROPRIATIONS Committee Vote",
+              "bill": "Senate Bill 1368 PN1774, Re-Reported as Committed - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=3&rollcallid=937&sessYr=2025&sessInd=0",
+              "YES Votes": "22",
+              "NO Votes": "0"
+            },
+            {
+              "date": "Wednesday, June 10, 2026",
+              "type": "Senate COMMUNICATIONS & TECHNOLOGY Committee Vote",
+              "bill": "Senate Bill 1368 PN1774, Reported as Committed - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=5&rollcallid=877&sessYr=2025&sessInd=0",
+              "YES Votes": "11",
+              "NO Votes": "0"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "SB1400",
+      "changes": {
+        "content_hash": {
+          "from": "f38e30593e7bc23b1f6d9f43f62a68b1",
+          "to": "ed575283d8cdc681fb125f5c1a761e24"
+        },
+        "last_action": {
+          "from": "Last Action: Referred to Judiciary, June 22, 2026 Senate",
+          "to": "Last Action: Second consideration, June 24, 2026 Senate"
+        },
+        "actions": {
+          "from": [
+            {
+              "action": "1834\nReferred to Judiciary,  June\u00a022,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 1400 PN 1834 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1400/PN1834",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1400/PN1834"
+            }
+          ],
+          "to": [
+            {
+              "action": "1834\nReferred to Judiciary,  June\u00a022,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 1400 PN 1834 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1400/PN1834",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1400/PN1834"
+            },
+            {
+              "action": "1836\nReported as amended, June\u00a023,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 1400 PN 1836 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1400/PN1836",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1400/PN1836"
+            },
+            {
+              "action": "First consideration, June\u00a023,\u00a02026"
+            },
+            {
+              "action": "Second consideration, June\u00a024,\u00a02026"
+            }
+          ]
+        },
+        "votes": {
+          "from": [],
+          "to": [
+            {
+              "date": "Tuesday, June 23, 2026",
+              "type": "Senate JUDICIARY Committee Vote",
+              "bill": "Senate Bill 1400 PN1834 A03888, Adopt Amendment - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=39&rollcallid=919&sessYr=2025&sessInd=0",
+              "YES Votes": "9",
+              "NO Votes": "5"
+            },
+            {
+              "date": "Tuesday, June 23, 2026",
+              "type": "Senate JUDICIARY Committee Vote",
+              "bill": "Senate Bill 1400 PN1834, Reported as Amended - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=39&rollcallid=920&sessYr=2025&sessInd=0",
+              "YES Votes": "9",
+              "NO Votes": "5"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
