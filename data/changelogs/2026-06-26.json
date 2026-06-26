@@ -1,0 +1,263 @@
+{
+  "date": "2026-06-26",
+  "additions": [
+    {
+      "bill_id": "SB0295",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb295",
+      "action": "Last Action: Referred to Education, June 25, 2026 Senate"
+    },
+    {
+      "bill_id": "SB1394",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1394",
+      "action": "Last Action: Referred to Finance, June 25, 2026 Senate"
+    },
+    {
+      "bill_id": "SB1397",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1397",
+      "action": "Last Action: Referred to Finance, June 25, 2026 Senate"
+    },
+    {
+      "bill_id": "SB0019",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb19",
+      "action": "Last Action: (Remarks see Senate Journal Page ....), June 25, 2026 Senate"
+    },
+    {
+      "bill_id": "SB0357",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb357",
+      "action": "Last Action: Laid on the table (Pursuant to Senate Rule 9), June 25, 2026 Senate"
+    },
+    {
+      "bill_id": "SB0536",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb536",
+      "action": "Last Action: Removed from table, June 25, 2026 Senate"
+    },
+    {
+      "bill_id": "SB0890",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb890",
+      "action": "Last Action: Second consideration, June 25, 2026 Senate"
+    },
+    {
+      "bill_id": "SB0907",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb907",
+      "action": "Last Action: Laid on the table (Pursuant to Senate Rule 9), June 25, 2026 Senate"
+    },
+    {
+      "bill_id": "SB1321",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1321",
+      "action": "Last Action: Removed from table, June 25, 2026 Senate"
+    },
+    {
+      "bill_id": "SB1324",
+      "url": "https://www.palegis.us/legislation/bills/2025/sb1324",
+      "action": "Last Action: Laid on the table (Pursuant to Senate Rule 9), June 25, 2026 Senate"
+    }
+  ],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "SB0911",
+      "changes": {
+        "content_hash": {
+          "from": "c5b03b22864b258ccc961ececb1db4bc",
+          "to": "91400b45fbe2fc790963a99743fe398d"
+        },
+        "last_action": {
+          "from": "Last Action: Amended on second consideration, June 24, 2026 (49-1) Senate",
+          "to": "Last Action: Second consideration, June 25, 2026 Senate"
+        },
+        "actions": {
+          "from": [
+            {
+              "action": "1038\nReferred to Judiciary,  July\u00a08,\u00a02025",
+              "doc": "2025-2026 Regular Session SB 0911 PN 1038 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB0911/PN1038",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB0911/PN1038"
+            },
+            {
+              "action": "1283\nReported as amended, Oct.\u00a028,\u00a02025",
+              "doc": "2025-2026 Regular Session SB 0911 PN 1283 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB0911/PN1283",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB0911/PN1283"
+            },
+            {
+              "action": "First consideration, Oct.\u00a028,\u00a02025"
+            },
+            {
+              "action": "Laid on the table (Pursuant to Senate Rule 9), Feb.\u00a04,\u00a02026"
+            },
+            {
+              "action": "Removed from table, June\u00a024,\u00a02026"
+            },
+            {
+              "action": "1841\nAmended on second consideration, June\u00a024,\u00a02026 (49-1)",
+              "doc": "2025-2026 Regular Session SB 0911 PN 1841 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB0911/PN1841",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB0911/PN1841"
+            }
+          ],
+          "to": [
+            {
+              "action": "1038\nReferred to Judiciary,  July\u00a08,\u00a02025",
+              "doc": "2025-2026 Regular Session SB 0911 PN 1038 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB0911/PN1038",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB0911/PN1038"
+            },
+            {
+              "action": "1283\nReported as amended, Oct.\u00a028,\u00a02025",
+              "doc": "2025-2026 Regular Session SB 0911 PN 1283 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB0911/PN1283",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB0911/PN1283"
+            },
+            {
+              "action": "First consideration, Oct.\u00a028,\u00a02025"
+            },
+            {
+              "action": "Laid on the table (Pursuant to Senate Rule 9), Feb.\u00a04,\u00a02026"
+            },
+            {
+              "action": "Removed from table, June\u00a024,\u00a02026"
+            },
+            {
+              "action": "1841\nAmended on second consideration, June\u00a024,\u00a02026 (49-1)",
+              "doc": "2025-2026 Regular Session SB 0911 PN 1841 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB0911/PN1841",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB0911/PN1841"
+            },
+            {
+              "action": "Second consideration, June\u00a025,\u00a02026"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "SB1400",
+      "changes": {
+        "content_hash": {
+          "from": "ed575283d8cdc681fb125f5c1a761e24",
+          "to": "676c645875f5cba506dabe7a0f679814"
+        },
+        "last_action": {
+          "from": "Last Action: Second consideration, June 24, 2026 Senate",
+          "to": "Last Action: (Remarks see Senate Journal Page ....), June 25, 2026 Senate"
+        },
+        "actions": {
+          "from": [
+            {
+              "action": "1834\nReferred to Judiciary,  June\u00a022,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 1400 PN 1834 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1400/PN1834",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1400/PN1834"
+            },
+            {
+              "action": "1836\nReported as amended, June\u00a023,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 1400 PN 1836 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1400/PN1836",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1400/PN1836"
+            },
+            {
+              "action": "First consideration, June\u00a023,\u00a02026"
+            },
+            {
+              "action": "Second consideration, June\u00a024,\u00a02026"
+            }
+          ],
+          "to": [
+            {
+              "action": "1834\nReferred to Judiciary,  June\u00a022,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 1400 PN 1834 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1400/PN1834",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1400/PN1834"
+            },
+            {
+              "action": "1836\nReported as amended, June\u00a023,\u00a02026",
+              "doc": "2025-2026 Regular Session SB 1400 PN 1836 Bill Text (PDF)",
+              "pdf_link": "/legislation/bills/text/PDF/2025/0/SB1400/PN1836",
+              "text_link": "https://www.palegis.us/legislation/bills/text/HTM/2025/0/SB1400/PN1836"
+            },
+            {
+              "action": "First consideration, June\u00a023,\u00a02026"
+            },
+            {
+              "action": "Second consideration, June\u00a024,\u00a02026"
+            },
+            {
+              "action": "Third consideration and final passage, June\u00a025,\u00a02026 (31-19)"
+            },
+            {
+              "action": "Vote on final passage reconsidered, June\u00a025,\u00a02026"
+            },
+            {
+              "action": "Final passage, June\u00a025,\u00a02026 (30-20)"
+            },
+            {
+              "action": "(Remarks see Senate Journal Page ....), June\u00a025,\u00a02026"
+            }
+          ]
+        },
+        "votes": {
+          "from": [
+            {
+              "date": "Tuesday, June 23, 2026",
+              "type": "Senate JUDICIARY Committee Vote",
+              "bill": "Senate Bill 1400 PN1834 A03888, Adopt Amendment - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=39&rollcallid=919&sessYr=2025&sessInd=0",
+              "YES Votes": "9",
+              "NO Votes": "5"
+            },
+            {
+              "date": "Tuesday, June 23, 2026",
+              "type": "Senate JUDICIARY Committee Vote",
+              "bill": "Senate Bill 1400 PN1834, Reported as Amended - opens in a new tab",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=39&rollcallid=920&sessYr=2025&sessInd=0",
+              "YES Votes": "9",
+              "NO Votes": "5"
+            }
+          ],
+          "to": [
+            {
+              "date": "Thursday, June 25, 2026",
+              "type": "Senate Floor Vote",
+              "bill": "Senate Bill 1400 PN1836, Final Passage-Reconsidered - opens in a new tab",
+              "link": "/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=446",
+              "YES Votes": "30",
+              "NO Votes": "20"
+            },
+            {
+              "date": "Thursday, June 25, 2026",
+              "type": "Senate Floor Vote",
+              "bill": "Senate Bill 1400 PN1836, Final Passage - opens in a new tab",
+              "link": "/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=445",
+              "YES Votes": "31",
+              "NO Votes": "19"
+            },
+            {
+              "date": "Thursday, June 25, 2026",
+              "type": "Senate\u00a0Floor\u00a0Vote",
+              "bill": "\n26\n24\n - opens in a new tab\n",
+              "link": "/senate/roll-calls/summary?sessYr=2025&sessInd=0&rcNum=444",
+              "YES Votes": "26",
+              "NO Votes": "24"
+            },
+            {
+              "date": "Tuesday, June 23, 2026",
+              "type": "Senate\u00a0JUDICIARY\u00a0Committee\u00a0Vote",
+              "bill": "\n9\n5\n - opens in a new tab\n",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=39&rollcallid=919&sessYr=2025&sessInd=0",
+              "YES Votes": "9",
+              "NO Votes": "5"
+            },
+            {
+              "date": "Tuesday, June 23, 2026",
+              "type": "Senate\u00a0JUDICIARY\u00a0Committee\u00a0Vote",
+              "bill": "\n9\n5\n - opens in a new tab\n",
+              "link": "/senate/committees/roll-call-votes/vote-list/vote-summary?committeecode=39&rollcallid=920&sessYr=2025&sessInd=0",
+              "YES Votes": "9",
+              "NO Votes": "5"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
